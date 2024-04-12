@@ -6,7 +6,7 @@
 
 # COURSE PROJECT
 ### Profesor: Alex Humberto Sánchez Ponce
-### Curso: Desarrollo de Aplicaciones Open Source
+### Curso: Aplicaciones Web
 # FINAL REPORT
 ## Startup: EcoGo
 ## Propuesta: EcoMove
@@ -39,8 +39,7 @@
       <td>20/03/2024</td>
       <td>
         - Ames Oviedo, Mariano José <br>
-        - Coraje Bayona, Jair Andreé <br>
-        - Horna Silva, Fabio Ernesto <br>
+        - Morales Montalvo, Omar Andrew<br>
         - Lecca Choccare, Christopher Bryan <br>
         - Sosa Colca, Angello Rodolfo <br>
         - Tongo Alejando, Milagros Salet <br>
@@ -217,6 +216,10 @@ Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros j
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 5.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c53cd589787177ffb927ae1488504a33148281e0
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
