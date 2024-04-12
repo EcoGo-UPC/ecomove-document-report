@@ -216,16 +216,8 @@ Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros j
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 5.
 
-<<<<<<< HEAD
 
 
-
-=======
-<<<<<<< HEAD
-=======
-
->>>>>>> c53cd589787177ffb927ae1488504a33148281e0
->>>>>>> release/1.2.1
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1 Descripción de la Startup
@@ -237,8 +229,4 @@ EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos el�
 
 |Misión|Visión|
 |------|------|
-<<<<<<< HEAD
 |Promover una movilidad urbana sostenible mediante el uso compartido de vehículos eléctricos, contribuyendo a la reducción de emisiones de carbono y creando ciudades más limpias y habitables.|Liderar la revolución hacia una movilidad urbana más limpia y accesible, siendo la opción preferida de transporte eléctrico compartido a nivel global.|
-=======
-|Promover una movilidad urbana sostenible mediante el uso compartido de vehículos eléctricos, contribuyendo a la reducción de emisiones de carbono y creando ciudades más limpias y habitables.|Liderar la revolución hacia una movilidad urbana más limpia y accesible, siendo la opción preferida de transporte eléctrico compartido a nivel global.|
->>>>>>> release/1.2.1
