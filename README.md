@@ -6,7 +6,7 @@
 
 # COURSE PROJECT
 ### Profesor: Alex Humberto Sánchez Ponce
-### Curso: Desarrollo de Aplicaciones Open Source
+### Curso: Aplicaciones Web
 # FINAL REPORT
 ## Startup: EcoGo
 ## Propuesta: EcoMove
@@ -39,8 +39,7 @@
       <td>20/03/2024</td>
       <td>
         - Ames Oviedo, Mariano José <br>
-        - Coraje Bayona, Jair Andreé <br>
-        - Horna Silva, Fabio Ernesto <br>
+        - Morales Montalvo, Omar Andrew<br>
         - Lecca Choccare, Christopher Bryan <br>
         - Sosa Colca, Angello Rodolfo <br>
         - Tongo Alejando, Milagros Salet <br>
@@ -216,3 +215,17 @@
 Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 5.
+
+
+# Capítulo I: Introducción
+## 1.1. Startup Profile
+### 1.1.1 Descripción de la Startup
+EcoGo es una startup que surge como respuesta a la creciente preocupación por la movilidad urbana sostenible y la reducción de las emisiones de carbono en entornos urbanos. A través de su propuesta de solución EcoMove, se dedica a facilitar el uso compartido de vehículos eléctricos entre usuarios, con el objetivo de disminuir la dependencia de los vehículos de combustión interna y fomentar un estilo de vida más respetuoso con el medio ambiente.
+
+EcoGo no solo ofrece una plataforma para alquilar vehículos eléctricos de manera conveniente, sino que también colabora con empresas locales y marcas comprometidas con la sostenibilidad. A través de alianzas estratégicas, proporciona recursos adicionales para expandir su flota de vehículos y mejorar la infraestructura de carga, promoviendo así el uso de energía limpia en el transporte.
+
+EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos eléctricos compartidos, ofreciendo tarifas diferenciadas, membresías con beneficios exclusivos y programas de fidelización para incentivar el uso recurrente de la plataforma y promover un estilo de vida urbano más sostenible.
+
+|Misión|Visión|
+|------|------|
+|Promover una movilidad urbana sostenible mediante el uso compartido de vehículos eléctricos, contribuyendo a la reducción de emisiones de carbono y creando ciudades más limpias y habitables.|Liderar la revolución hacia una movilidad urbana más limpia y accesible, siendo la opción preferida de transporte eléctrico compartido a nivel global.|
