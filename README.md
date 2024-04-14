@@ -218,7 +218,41 @@ Criterio: *La capacidad de funcionar efectivamente en un equipo cuyos miembros j
 
 En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 5.
 
-
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>TB1: <br> 
+      Christopher Lecca: A través del armado de diagramas de arquitectura, de clases y de base de datos, logré trabajar en equipo para proporcionar liderazgo en forma conjunta. Estos diagramas proporcionaron una representación visual clara y estructurada de la arquitectura del sistema, la estructura de clases y la disposición de la base de datos, facilitando la comprensión rápida y efectiva de la estructura y funcionamiento del proyecto para el resto del equipo. <br>
+      Mariano Ames: A traves de la elaboraración del proceso de Lean UX para identificar la problematica y la solución necesaria para resolverla, pude trabajar en un equipo para proporcionar liderazgo de manera conjunta. Identificando las principales User Stories que usamos para elaborar la pagina web, tambien colabore con la elaboración de las style guidelines, que ayudan a determinar un repositorio de estilos y elementos que se usaran en la elaboración del proyecto. <br>
+      Milagros Tongo: Inicié el proceso de needfinding realizando un exhaustivo análisis de usuarios para comprender a fondo sus necesidades, deseos y comportamientos. Esto implicó la creación detallada de user personas, representando a diferentes segmentos de usuarios con características y motivaciones distintas. Luego, llevé a cabo sesiones de journey mapping para visualizar los pasos que los usuarios realizan al interactuar con nuestro producto o servicio y finalmente realicé empathy mapping para identificar y comprender las emociones, pensamientos, preocupaciones y aspiraciones de nuestros usuarios. A traves de esto logre trabajar en equipo proporcionando un liderazgo conjunto al utilizar diferentes artefactos como user personas, que ayudarian a enfocar al equipo en la dirección correcta del proyecto.<br>
+      Angello Sosa: Realicé los prototypes de la versión final de la web application, una interfaz intuitiva que logra llamar la atención del usuario e incentivarlo a utilizar la aplicación. Esto ayudo a mi equipo a trabajar en un entorno de liderazgo conjunto, al cada uno participar en el diseño y la creación de los prototipos de la web application. <br>
+      Omar Morales: Además, al asegurar la coherencia y accesibilidad de la información, desarrollé habilidades de liderazgo y trabajo en equipo al establecer metas, planificar tareas y alcanzar objetivos con otros miembros del equipo. Esta experiencia resaltó la importancia de la comunicación efectiva y la coordinación en proyectos de ingeniería de software.
+      </td>
+      <td>
+      Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente
+      </td>
+    </tr>
+    <tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos</td>
+      <td>TB1: <br>
+      Christopher Lecca: A través de la creación de diagramas de arquitectura claros y explicativos, así como de la redacción de informes y ensayos que detallan los diferentes aspectos de la arquitectura de sistemas, logré ayudar a crear un entorno colaborativo e inclusivo, mientras establecia las metas que tendriamos que cumplir en el proyecto. <br>
+      Mariano Ames: Realización de una entrevista con un cliente para comprender las necesidades y poder elaborar requisitos que seran usados en la aplicación. Gracias a esto pude mejorar mi capacidad de identificar las necesidades de los usuarios y resumir estas en diversas User Stories, esto ayudo a generar un entorno colaborativo e inclusivo al poder identificar diferentes ideas de los usuarios. <br>
+      Milagros Tongo: En el proceso de needfinding, me aseguré de establecer claramente los objetivos del proyecto, definiendo las metas específicas que queríamos alcanzar a través de nuestras investigaciones de usuarios. Esto incluyó identificar los resultados deseados tanto a corto como a largo plazo, asegurando que nuestras actividades estuvieran alineadas con la visión general del proyecto. Lo que me ayudo a poder definir tareas y metas que servirian para crear un entorno colaborativo e inclusivo<br>
+      Angello Sosa: A través de los wireframes, establecí ideas que luego se convertirán en realidad durante el proceso de ejecución de la aplicación web. Con esto pude establecer metas y planificar tareas que tendriamos que cumplir luego en equipo.<br>
+      Omar Morales:  Al crear un entorno colaborativo, establecer metas, planificar tareas y cumplir objetivos, desarrollé habilidades esenciales para la gestión de proyectos en ingeniería de software. La capacidad de establecer metas claras, planificar actividades y resolver problemas de manera efectiva fue fundamental para el éxito del proyecto.<br>
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
