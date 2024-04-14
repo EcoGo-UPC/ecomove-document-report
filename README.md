@@ -477,10 +477,10 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 **Estudiantes universitarios urbanos:**
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/user-persona-1.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/user-persona-2.png?raw=true)
 
 **Ciudadanos en busca de movilidad rápida y evitando el tráfico:**
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/user-persona-2.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/user-persona-1.png?raw=true)
 
 ### 2.3.2. User Task Matrix
 ![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/user-tasks-matrix.png?raw=true)
