@@ -1,4 +1,4 @@
-![image](https://github.com/EcoGo-UPC/ecomove-document-report/assets/129983231/b3fb7fee-7a54-403a-91af-f313d2f87b04)**Universidad Peruana de Ciencias Aplicadas**
+**Universidad Peruana de Ciencias Aplicadas**
 
 **Ingeniería de Software**
 
@@ -1501,7 +1501,7 @@ Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a4442
 En este sprint se utilizo github pages para desplegar la primera versión del proyecto. 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-[](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/insights.png?raw=true)
+![image](https://github.com/EcoGo-UPC/ecomove-document-report/assets/129983231/b3fb7fee-7a54-403a-91af-f313d2f87b04)
 
 # Anexo
 ## Anexo A: Video de exposición de la TB1
