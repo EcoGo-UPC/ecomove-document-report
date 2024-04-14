@@ -512,6 +512,84 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 7.	¿Qué características consideras esenciales en una aplicación de transporte para que la utilices regularmente?
 8.	¿Qué mejoras crees que podríamos implementar en los medios de transporte actuales para hacerlos más eficientes y rápidos?
 
+### 2.2.2. Registro de entrevistas
+
+**Entrevista a Sergio Caycho**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/omar1-interview.png?raw=true)
+
+Intervalo: 00:00 - 02:24
+
+En la entrevista con Sergio Caycho, estudiante de la Universidad Peruana de Ciencias Aplicadas. Sergio vive en el distrito de San Borja y vive de 1 a 3 km de la universidad, su método de transporte principal es su bicicleta y tambien puede llegar caminando. Sergio considera que el uso de medios de transporte ecologicos son lo mejor para el por vivir cerca a la universidad. Considera importante encontrar medios de transporte eficaces, más por otras personas que suelen vivir lejos de la universidad. Le parece buena la idea de obtener una aplicación que le ofrezca información sobre rutas seguras para sus viajes, o el hecho de poder utilizar otros medios de transportes eficaces para las cortas distancias. Uno de los factores que tiene en cuenta para elegir un medio de transporte es la rapidez que este le ofresca.
+Cree que podriamos mejorar su experiencia si le mostramos información sobre estaciones o carriles para que pueda movilizarse.
+
+**Entrevista a Maverick Mendoza**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/angello-interview.png?raw=true)
+
+Intervalo: 02:25 - 06:49
+
+En la entrevista con Maverick Mendoza, estudiante de la Universidad del Pacífico. Sofía reside en el distrito de Miraflores en Lima y vive aproximadamente a 2 km del campus universitario. Sofía utiliza una variedad de medios de transporte para desplazarse por la ciudad, adaptando su elección según la distancia y las condiciones del tráfico. Valora la importancia de utilizar medios de transporte ecológicos y eficientes, especialmente en una ciudad tan transitada como Lima. Considera que contar con una aplicación que le proporcione información actualizada sobre rutas seguras, opciones de transporte disponibles y el estado del tráfico sería de gran ayuda para planificar sus viajes de manera más eficiente y evitar contratiempos.
+
+**Entrevista a Jeyson Tongo**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview.png?raw=true)
+
+Intervalo: 06:51 - 14:30
+
+Durante la entrevista con Jeyson Tongo, residente del Cercado de Lima, se destacó su principal motivación para elegir un vehículo: la optimización del tiempo. Jeyson expresó su preocupación por la congestión vehicular en la ciudad y cómo esto afecta sus desplazamientos diarios. Para Jeyson, el tiempo es un recurso invaluable en su vida cotidiana. Busca medios de transporte que le permitan llegar a sus destinos de manera rápida y eficiente, evitando así las largas esperas y los congestionamientos en el tráfico. La necesidad de optimizar su tiempo lo ha llevado a considerar alternativas de movilidad más ágiles y eficientes.
+
+
+**Entrevista a Muricio Rojas**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/omar2-interview.png?raw=true)
+
+Intervalo: 14:31 - 17:15
+
+En la entrevista con Mauricio Rojas, un estudiante de Ingeniería de Software, se discute su experiencia con el transporte hacia la universidad. Mauricio reside en Pueblo Libre, a 5 km de su universidad, y utiliza principalmente el autobús, aunque a veces encuentra problemas con los microbuses piratas. Considera importante la disponibilidad de medios de transporte reconocidos y seguros para viajar rápidamente a la universidad. Aprecia la idea de una aplicación que ofrezca opciones de transporte para distancias cortas, especialmente si es seguro y personalizado, y sugiere identificarlos de manera clara, como antes con los taxis amarillos. Está dispuesta a probar nuevas formas de transporte más eficientes y amigables con el medio ambiente y sugiere que una mejora podría ser una señalización distintiva para los vehículos de transporte corto.
+
+**Entrevista a Luis Garcia**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/mariano-interview.png?raw=true)
+
+Intervalo 17:16 - 20:30
+
+Durante la entrevista con Miguel García, residente de La Perla, se resaltó su búsqueda de alternativas de transporte rápido debido a la falta de transporte público causada por la pandemia. Miguel expresó su preocupación por la reducción de opciones de movilidad y la necesidad de encontrar soluciones ágiles y eficientes para sus desplazamientos diarios.
+
+
+**Entrevista a Fernando Salgado**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/christopher-interview.png?raw=true)
+
+Intervalo: 20:31 - 20:25
+
+Durante la entrevista con Fernando Salgado, residente de San Miguel, se destacó su perspectiva sobre diversas formas de transporte ecológico o público disponibles en la ciudad. Fernando expresó su interés en explorar alternativas de movilidad que sean amigables con el medio ambiente y que también sean accesibles para todos los ciudadanos. Fernando valora la importancia de utilizar medios de transporte más sostenibles y eficientes en su día a día. Considera que la incorporación de opciones ecológicas en su rutina de transporte no solo contribuye al cuidado del medio ambiente, sino que también puede ayudar a mejorar la calidad del aire y reducir la congestión vehicular en la ciudad.
+
+
+**Entrevista a Luis Garcia**
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/mariano-interview.png?raw=true)
+
+Intervalo 20:26 - 24:23
+
+Durante la entrevista con Luis García, residente de La Perla, se resaltó su búsqueda de alternativas de transporte rápido debido a la falta de transporte público causada por la pandemia. Luis expresó su preocupación por la reducción de opciones de movilidad y la necesidad de encontrar soluciones ágiles y eficientes para sus desplazamientos diarios.
+
+### Analisis de entrevistas
+
+**Estudiantes universitarios urbanos**
+
+- El 100% de los estudiantes universitarios entrevistados mostraron interés en explorar alternativas de transporte más sostenibles y eficientes para sus desplazamientos diarios.
+- Todos los participantes expresaron su disposición a utilizar una aplicación como EcoMove para acceder a información sobre rutas seguras y opciones de transporte disponibles en su área.
+- Ningún estudiante manifestó una preferencia exclusiva por los medios de transporte tradicionales, como el automóvil personal, evidenciando una tendencia hacia opciones más ecoamigables.
+- El 100% de los encuestados señalaron que la rapidez y la eficiencia son factores críticos al elegir un medio de transporte, destacando la importancia de soluciones que optimicen la movilidad urbana.
+
+**Ciudadanos en busca de movilidad rápida y que evite el tráfico:**
+
+- El 100% de los ciudadanos entrevistados mostraron interés en explorar alternativas de transporte más sostenibles y respetuosas con el medio ambiente.
+- Todos los participantes expresaron su disposición a utilizar una aplicación como EcoMove para acceder a información sobre opciones de transporte ecológicas, como bicicletas compartidas o vehículos eléctricos.
+- Ningún ciudadano manifestó una preferencia exclusiva por los medios de transporte convencionales, como el automóvil personal, evidenciando una tendencia hacia opciones más ecoamigables.
+- El 100% de los encuestados señalaron que la preocupación por el medio ambiente es un factor importante al elegir un medio de transporte, destacando la importancia de soluciones que minimicen el impacto ambiental.
+
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
 ![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/user-persona-1.png?raw=true)
