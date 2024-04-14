@@ -1058,9 +1058,9 @@ En el ámbito de la gestión de vehículos, se establece un conjunto de clases y
 
 **Context: Booking and Reservation:**
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/booking-context.PNG?raw=true)
-
 En el ámbito de la gestión de reservas y reservación, se establece un conjunto de clases y estructuras destinadas a facilitar la administración eficiente de reservas de servicios o recursos dentro de un sistema. Desde la creación y modificación de reservas hasta la notificación y cancelación de las mismas, estas clases colaboran para ofrecer una experiencia fluida y organizada para los usuarios que utilizan el sistema de reservas.
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/booking-context.PNG?raw=true)
 
 **Context: Payment:**
 
@@ -1146,3 +1146,12 @@ El contexto de Customer Support (soporte al cliente) se enfoca en proporcionar a
 La base de datos de EcoMove es un componente fundamental de la plataforma que almacena y gestiona una variedad de datos relacionados con usuarios, vehículos, reservaciones, transacciones, membresías y más. Está diseñada para soportar las funcionalidades principales de la aplicación, incluyendo la gestión de usuarios, la reserva de vehículos, el seguimiento de transacciones financieras y la administración de membresías.
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/database-diagram.PNG?raw=true)
+
+
+# Bibliografía
+
+Espinoza, A. (18 de agosto de 2023). _Vehículos viejos y transporte público causan el 58% de contaminación del aire en Lima_. Infobae. https://www.infobae.com/peru/2023/08/18/vehiculos-viejos-y-transporte-publico-causan-el-58-de-contaminacion-del-aire-en-lima/
+
+Romero, V., Salazar, L., Solís, A. & Solís, J. (2022). Congestión Vehicular y Contaminación Ambiental en Lima Metropolitana. _Revista Lasallista de Investigación_, _19_(1), 152-164.
+
+Stakeholders. (28 de setiembre de 2023). _La idea de la micromovilidad es ahorrar tiempo en el tráfico y colaborar con el cuidado del medio ambiente_. https://stakeholders.com.pe/ciencia-innovacion-y-tecnologia/innovacion-y-emprendimientos/la-idea-de-la-micromovilidad-es-ahorrar-tiempo-en-el-trafico-y-colaborar-con-el-cuidado-del-medio-ambiente/
