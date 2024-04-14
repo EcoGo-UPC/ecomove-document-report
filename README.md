@@ -1009,3 +1009,140 @@ En nuestro Sistema de Navegación, buscamos simplificar la experiencia de navega
 Una de estas interfaces por ejemplo, es la barra de navegación que acompaña al usuario a lo largo de la página. Con ayuda de esta interfaz el usuario es capaz de navegar por la página de manera sencilla.
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/navigation-system.png?raw=true)
+
+## 4.6. Domain-Driven Software Architecture.
+
+### 4.6.1. Software Architecture Context Diagram
+
+El diagrama de contexto representa la interacción del sistema EcoMove con sus principales entidades externas y servicios. En el centro del diagrama se encuentra el sistema EcoMove, que es el enfoque principal de nuestra atención.
+
+El sistema EcoMove interactúa con tres actores externos principales:
+
+Citizens (Ciudadanos): Estos son los usuarios finales del sistema EcoMove. Utilizan la plataforma para acceder a servicios de movilidad ecológica, como reservar vehículos eléctricos, consultar rutas y realizar pagos.
+
+Ecopartners (Socios Ecológicos): Estos son los proveedores de vehículos y servicios asociados con EcoMove. Proporcionan vehículos eléctricos, estaciones de carga y otros servicios de movilidad sostenible que están disponibles a través de la plataforma EcoMove.
+
+Customer Support (Soporte al Cliente): Este actor representa el equipo encargado de brindar asistencia y resolver problemas para los usuarios de EcoMove. Interactúan con los ciudadanos y los socios ecológicos para abordar consultas, problemas técnicos o cualquier otra necesidad de soporte.
+
+Además de estos actores, el sistema EcoMove se conecta a la API de Google Maps, que proporciona funcionalidades de mapeo y navegación. Esta conexión permite a los usuarios de EcoMove acceder a características como la visualización de rutas, la búsqueda de ubicaciones y la estimación de tiempos de viaje utilizando los servicios de mapas de Google.
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/context-diagram.PNG?raw=true)
+
+### 4.6.2 Software Architecture Container Diagrams
+
+El diagrama de contexto del sistema de contenedores muestra la interacción entre el sistema y sus componentes externos, incluyendo la landing page, donde los usuarios obtienen información, la web application, que permite interactuar con el sistema, y el acceso a la base de datos, utilizada para almacenar y recuperar datos esenciales del sistema. Este esquema visual proporciona una visión clara de cómo el sistema se conecta con su entorno y los servicios clave que utiliza para su funcionamiento.
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/container-diagram.PNG?raw=true)
+
+### 4.6.3 Software Architecture Components Diagrams
+
+El diagrama de componentes del sistema presenta los diferentes contextos, como el de User Management, Vehicle Management, Booking and Reservation, Customer Support, Payment, y Contenedores, unidos por el Shared Kernel. Cada contexto está representado por sus componentes clave, que incluyen clases, interfaces y servicios específicos, mientras que el Shared Kernel actúa como un conjunto central de funcionalidades compartidas entre los diferentes contextos. 
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/component-diagram.PNG?raw=true)
+
+### 4.7. Software Object-Oriented Design
+
+### 4.7.1. Class Diagrams
+
+**Context: User Management:**
+
+En el contexto de la gestión de usuarios, se implementan una serie de clases y interfaces diseñadas para manejar de manera eficiente la interacción entre los usuarios y el sistema. Desde la creación y gestión de perfiles de usuario hasta la administración de membresías y sesiones activas, estas clases trabajan en conjunto para garantizar una experiencia fluida y segura para los usuarios. Con clases como User, UserSession y Membership, junto con sus respectivas fábricas, se establece una base sólida para el manejo integral de los usuarios en el sistema. Además, la implementación de observadores como StatusObserver permite monitorear y responder dinámicamente a cambios en el estado de los usuarios, asegurando un entorno confiable y receptivo para todas las operaciones de gestión de usuarios.
+
+![](https://github.com//EcoGo-UPC//ecomove-document-report/blob/main/images/artifacts/user-management-context.PNG?raw=true)
+
+**Context: Vehicle Management:**
+
+En el ámbito de la gestión de vehículos, se establece un conjunto de clases y estructuras destinadas a facilitar la administración eficiente de los recursos relacionados con vehículos en un sistema. Desde la representación de diferentes tipos de vehículos hasta la gestión de reservas y mantenimiento, estas clases colaboran para ofrecer un entorno organizado y funcional para la administración de flotas de vehículos.
+
+![](https://github.com//EcoGo-UPC//ecomove-document-report/blob/main/images/artifacts/vehicle-management-context.PNG?raw=true)
+
+**Context: Booking and Reservation:**
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/booking-context.PNG?raw=true)
+
+En el ámbito de la gestión de reservas y reservación, se establece un conjunto de clases y estructuras destinadas a facilitar la administración eficiente de reservas de servicios o recursos dentro de un sistema. Desde la creación y modificación de reservas hasta la notificación y cancelación de las mismas, estas clases colaboran para ofrecer una experiencia fluida y organizada para los usuarios que utilizan el sistema de reservas.
+
+**Context: Payment:**
+
+El contexto de pago abarca todas las funcionalidades y procesos relacionados con la gestión de transacciones financieras dentro de un sistema. Desde la verificación de métodos de pago hasta la realización de transacciones y el registro de las mismas, este contexto se centra en garantizar la seguridad, eficiencia y confiabilidad en las operaciones financieras realizadas en la plataforma.
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/payment-context.PNG?raw=true)
+
+**Context: Customer Support:**
+
+El contexto de Customer Support (soporte al cliente) se enfoca en proporcionar asistencia y resolver problemas para los usuarios de un producto o servicio. Las clases dentro de este contexto facilitan la gestión eficiente de las solicitudes de soporte, la asignación de tareas a agentes de servicio al cliente y el seguimiento del progreso de la resolución de problemas.
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/customer-support-context.PNG?raw=true)
+
+### 4.7.2. Class Dictionary
+
+**Context: User Management:**
+
+- User: Representa un usuario en el sistema. Contiene información básica del usuario como nombre de usuario, correo electrónico y contraseña.
+- UserSession: Representa una sesión de usuario activa en el sistema. Guarda la información sobre el usuario que ha iniciado sesión, su ID de sesión y el momento en que inició sesión.
+- Membership (Membresía): Una interfaz que define las características y beneficios de la membresía de un usuario.
+- BasicMembership (Membresía Básica): Implementa la interfaz de membresía y define los beneficios asociados con la membresía básica de un usuario.
+- PremiumMembership (Membresía Premium): Implementa la interfaz de membresía y define los beneficios asociados con la membresía premium de un usuario.
+- EliteMembership (Membresía Elite): Implementa la interfaz de membresía y define los beneficios asociados con la membresía elite de un usuario.
+- MembershipFactory (Fábrica de Membresías): Una fábrica abstracta que define un método para crear objetos de membresía.
+- BasicMembershipFactory (Fábrica de Membresías Básicas): Una fábrica concreta que implementa la creación de membresías básicas.
+- PremiumMembershipFactory (Fábrica de Membresías Premium): Una fábrica concreta que implementa la creación de membresías premium.
+- EliteMembershipFactory (Fábrica de Membresías Elite): Una fábrica concreta que implementa la creación de membresías elite.
+
+**Context: Vehicle Management:**
+
+- EcoVehicle: Interfaz que define un vehículo ecológico.
+- ElectricBicycle: Implementa la interfaz EcoVehicle. Representa una bicicleta eléctrica.
+- ElectricScooter: Implementa la interfaz EcoVehicle. Representa un patinete eléctrico.
+- EcoVehicleFactory: Interfaz para la creación de objetos EcoVehicle.
+- ElectricBicycleFactory: Implementa la interfaz EcoVehicleFactory. Se encarga de crear bicicletas eléctricas.
+- ElectricScooterFactory: Implementa la interfaz EcoVehicleFactory. Se encarga de crear patinetes eléctricos.
+- EcoVehicleRepository: Interfaz para el almacenamiento y recuperación de información sobre vehículos ecológicos.
+- MaintenanceRecordList: Lista de registros de mantenimiento para un vehículo.
+- MaintenanceRecord: Registro de mantenimiento para un vehículo.
+- Subject: Interfaz para un objeto que es el sujeto de observación.
+- Observer: Interfaz para un objeto que observa y recibe notificaciones sobre cambios en un sujeto.
+-StatusObserver: Implementa la interfaz Observer. Observa y recibe notificaciones sobre cambios de estado en un vehículo.
+
+**Context: Booking and Reservation:**
+
+- Booking: Representa una reserva en el sistema.
+- Command (Comando): Interfaz que define las operaciones de comandos.
+- MakeReservationCommand (Comando de Hacer Reserva): Implementa la interfaz Command. Representa un comando para hacer una reserva.
+- ModifyReservationCommand (Comando de Modificar Reserva): Implementa la interfaz Command. Representa un comando para modificar - una reserva.
+- CancelReservationCommand (Comando de Cancelar Reserva): Implementa la interfaz Command. Representa un comando para cancelar una reserva.
+- Reservation (Reservación): Representa una reserva en el sistema.
+- ReservationRepository (Repositorio de Reservas): Interfaz para el almacenamiento y recuperación de información sobre reservas.
+- Strategy (Estrategia): Interfaz que define un algoritmo o familia de algoritmos.
+- EmailSender (Enviador de Correo Electrónico): Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones por correo electrónico.
+- SmsSender (Enviador de Mensajes de Texto): Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones por mensaje de texto.
+- PopupSender (Enviador de Ventanas Emergentes): Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones a través de ventanas emergentes.
+
+**Context: Payment:**
+
+- PaymentProcessor: Interfaz para el procesamiento de pagos.
+- CreditCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de crédito.
+- DebitCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de débito.
+- PaymentProcessorFactory: Interfaz para la creación de objetos PaymentProcessor.
+- CreditCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de CreditCardProcessor.
+- DebitCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de DebitCardProcessor.
+- TransactionEmitter: Emite transacciones financieras.
+- Transaction: Representa una transacción financiera.
+- TransactionRepository: Interfaz para el almacenamiento y recuperación de transacciones financieras.
+
+
+**Context: Customer Support:**
+
+- TicketManager: Gestiona los tickets de soporte creados por los usuarios.
+- Ticket: Representa un ticket de soporte creado por un usuario.
+- TicketCategory: Define las categorías o tipos de tickets de soporte.
+- CustomerServiceAgent: Representa a un agente de servicio al cliente encargado de gestionar y responder a los tickets de soporte.
+
+## 4.8. Database Design
+
+## 4.8.1 Database diagram
+
+
+La base de datos de EcoMove es un componente fundamental de la plataforma que almacena y gestiona una variedad de datos relacionados con usuarios, vehículos, reservaciones, transacciones, membresías y más. Está diseñada para soportar las funcionalidades principales de la aplicación, incluyendo la gestión de usuarios, la reserva de vehículos, el seguimiento de transacciones financieras y la administración de membresías.
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/database-diagram.PNG?raw=true)
