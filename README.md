@@ -1150,7 +1150,7 @@ La base de datos de EcoMove es un componente fundamental de la plataforma que al
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
-## 5.1. Software Configuration Management.
+## 5.1. Software Configuration Management
 
 ### 5.1.1. Software Development Environment Configuration
 
