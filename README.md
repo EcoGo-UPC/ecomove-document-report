@@ -953,7 +953,7 @@ En la página utilizamos un tono de comunicación formal y respetuoso, pero inte
 
 En esta sección se mostrara con ilustraciones las decisiones tomadas en los estándares visuales y de interacción de nuestra pagina web.
 
-El lenguaje de diseño estará basado en Material Design, como biblioteca de componentes de UI se usara Angular Material
+El lenguaje de diseño estará basado en Material Design, como biblioteca de componentes de UI se usara PrimeVue
 
 #### Paleta de colores
 La paleta de colores consiste en una escala de colores azules, siguiendo el general style guidelines.
@@ -1377,7 +1377,7 @@ Del mismo modo, en lo que respecta al proceso de despliegue del Landing Page, se
 | **Nombre de la Epic** | **Búsqueda y Reserva de Transporte** |----------------|-----------------------------|---------------------|
 | EPIC-02  | US03          | Buscar Transporte Cercano             | Como usuario, quiero poder buscar vehículos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento. | DADO que se encuentre en la sección de búsqueda de vehículos<br>Cuando el usuario haga clic en la opción de buscar vehículos cercanos<br>Y verifique su ubicación en el menú<br>ENTONCES se mostrará en una lista al usuario los vehículos cercanos. |
 
-![]()
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/sprint-backlog.png?raw=true)
 
 Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a444216CEDCD75/sprint-1-ecomove-application
 # Bibliografía
