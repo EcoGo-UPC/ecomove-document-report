@@ -1148,6 +1148,112 @@ La base de datos de EcoMove es un componente fundamental de la plataforma que al
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/database-diagram.PNG?raw=true)
 
 
+# Capítulo V: Product Implementation, Validation & Deployment
+
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+
+**Project Management:**
+Producto: Trello
+Propósito: Seguimiento y gestión de tareas, asignación de recursos, seguimiento de tiempo y colaboración en equipo.
+Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a444216CEDCD75/sprint-1-ecomove-application
+
+**Product UX/UI Design:**
+Producto: Figma
+Propósito: Para llevar a cabo el diseño de la aplicación, como Wireframes y Mockups, utilizamos Figma. Esta es una plataforma de edición gráfica y diseño de interfaces, utilizada por diseñadores UX/UI.
+Enlace: https://www.figma.com/team_invite/redeem/0tCRSs2b6GgKwXg3k3VCD5
+
+**Software Deployment:**
+
+Producto: GitHub
+Propósito: Utilizar GitHub Pages para el despliegue del landing Page.
+Enlace:  https://github.com/UPC-EcoGo/ecomove-landing-page
+
+
+### 5.1.2.	Source Code Management
+A continuación, se presenta la gestión del código fuente que se utilizará en este proyecto y que permitirá supervisar y regular los ajustes y adaptaciones que realice cualquier miembro del equipo durante el desarrollo del proyecto. También es importante señalar que estableceremos un repositorio en GitHub para gestionar las diferentes versiones del código en este proyecto.
+Repositorio en GitHub para el Landing Page: https://github.com/UPC-EcoGo/ecomove-landing-page
+
+**Desarrollo de GitFlow:**
+Para el desarrollo de este proyecto utilizaremos GitFlow como Workflow que controlará las versiones. Esto nos permitirá la creación de las ramas principales y las ramas de apoyo.
+
+**Ramas principales:**
+-	Rama Main: Esta rama es la principal en Git, ya que contendrá el código fuente del proyecto que estará listo para ser utilizado. 
+-	Rama Develop: Esta rama será la encargada de almacenar el código fuente de los cambios más recientes antes de ser actualizado por una nueva versión del proyecto. 
+
+
+**Ramas de apoyo:**
+-	Rama Feature: Esta rama se origina a partir de la rama "Develop" y se destinará al desarrollo de nuevas funciones o características. Una de las ventajas inherentes a su empleo radica en la posibilidad de someter a pruebas las nuevas funcionalidades antes de su incorporación a la rama principal "Develop". Una vez que la rama "Feature" haya sido implementada, se procederá a su eliminación.
+
+-	Rama Release: Esta rama surge de la rama “Develop” y se utiliza para la preparación de una nueva versión del proyecto. En esta rama se realizarán tareas como la detección y solución de errores, sin embargo, no se podrá realizar la implementación de nuevas funcionalidades. Después de haber culminado, se deberá fusionar con la rama "Main" y “Develop”. 
+
+-	Rama Hotfix: Esta rama se origina a partir de la rama "Main" y se emplea con el propósito de abordar y resolver los problemas detectados durante el proceso de depuración del código fuente en la rama Master. Una vez que se hayan resuelto los problemas, será necesario llevar a cabo la fusión con las ramas "Main" y "Develop".
+
+**Convenciones para nombrar las ramas Feature, Release y Hotfix:**
+Para denominar las ramas de apoyo utilizaremos “Semantic Versioning 2.0.0”. Esta elección nos permitirá hacer uso del grupo de reglas establecidas en esta normativa, de esta manera podremos identificar los cambios realizados en el código fuente mediante su número de versión asignado. 
+
+La estructura utilizada es MAJOR.MINOR.PITCH (X.Y.Z). Las letras dentro del paréntesis representan la versión principal (MAJOR), la versión secundaria (MINOR) y la versión de parche o de corrección (PATCH) respectivamente. 
+
+### 5.1.3.	Source Code Style Guide & Conventions
+**HTML:**
+-	El archivo “index.html” define la estructura del Landing Page mediante el código fuente en HTML.
+
+**CSS:**
+-	El archivo “styles.css” que está diseñado en código fuente de CSS, se incorporará al código fuente HTML para dar forma al diseño del Landing Page.
+
+**Convenciones generales:**
+Para que nuestro código sea más legible utilizaremos una sangría (cantidad de espacios en blanco) de 2. <br>
+\<head\> <br>
+\<title\>EcoMove\</title\> <br>
+\</head\> <br>
+
+Para la codificación de caracteres en HTML se utilizará UTF-8 (Unicode).
+\<meta charset="UTF-8"\> <br>
+**Convenciones para el formato HTML:** <br>
+
+Se empleará una línea con un espacio para separar los elementos. <br>
+\<ol> <br>
+ 	 \<li\>Elemento 1\</li\> <br>
+ 	 \<li\>Elemento 2\</li\> <br>
+ 	 \<li\>Elemento 3\</li\> <br>
+\</ol> <br>
+
+Para realizar la cita de algún atributo se utilizarán las comillas. <br>
+\<figure\> <br>
+ \<img src="imagen_ejemplo.jpg" alt="Descripción"\> <br>
+\</figure\> <br>
+**Convenciones para el formato CSS:**
+Formato de nombres: Para una mejor lectura, se utilizarán nombres cortos. <br>
+.text{} <br>
+.image{} <br>
+.name{} <br>
+
+Para las palabras compuestas, se utilizará el símbolo “-”.
+
+.text_principal{...} <br>
+.image_secundaria{...} <br>
+
+Para un mejor entendimiento del código se utilizarán abreviaciones en las propiedades que se pueda.
+
+background-image: png("C:\User\Desktop.png"); <br>
+background-color: #2BA1BF; <br>
+background-repeat: no-repeat; <br>
+background-position: 5px 20px; <br>
+
+### 5.1.4.	Software Deployment Configuration
+
+Para implementar el Landing Page del Proyecto, emplearemos GitHub Pages, un servicio proporcionado por GitHub que nos permite publicar sitios web estáticos a partir de un repositorio. Por lo tanto, hemos inicialmente establecido un repositorio donde almacenaremos las diferentes versiones que produzcamos en el proyecto.
+Durante el proceso de desarrollo del Landing Page se emplarán las siguientes herramientas:
+
+-	HTML: Utilizaremos este lenguaje de marcado para estructurar y organizar el contenido del Landing Page.
+- CSS: Emplearemos este lenguaje de estilo para mejorar la presentación y la apariencia del Landing Page, haciéndolo más atractivo y amigable para los usuarios. Agilizando el uso de clases previamente creadas con el framework Tailwind CSS.
+-	JavaScript: Utilizaremos JavaScript, un lenguaje de programación, para agregar interactividad y funcionalidad dinámica al Landing Page, lo que mejorará la experiencia del usuario.
+
+Del mismo modo, en lo que respecta al proceso de despliegue del Landing Page, se hará uso de las siguientes herramientas:
+- Git: Este sistema de control de versiones se empleará para registrar y documentar los cambios realizados en el proyecto a lo largo del tiempo, manteniendo un historial que será posteriormente cargado en el repositorio de GitHub.
+
+
 # Bibliografía
 
 Espinoza, A. (18 de agosto de 2023). _Vehículos viejos y transporte público causan el 58% de contaminación del aire en Lima_. Infobae. https://www.infobae.com/peru/2023/08/18/vehiculos-viejos-y-transporte-publico-causan-el-58-de-contaminacion-del-aire-en-lima/
