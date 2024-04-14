@@ -515,6 +515,8 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 2.2.2. Registro de entrevistas
 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/ETv4cvfpUqhNgSr2CT2VQxMBNrDZiBRkvy7H6axruXJQ3g?e=uMx7bg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 **Entrevista a Sergio Caycho**
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/omar1-interview.png?raw=true)
