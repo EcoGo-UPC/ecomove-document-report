@@ -492,11 +492,11 @@ En el User Journey Mapping, exploramos el viaje del usuario a través de nuestro
 
 **Estudiantes universitarios urbanos:**
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/customer-journey%20map-1.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/customer-journey-map-1.png?raw=true)
 
 **Ciudadanos en busca de movilidad rápida y evitando el tráfico:**
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/customer-journey%20map-2.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/customer-journey-map-2.png?raw=true)
 
 ### 2.3.4. Empathy Mapping
 
