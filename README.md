@@ -1047,20 +1047,58 @@ Una de estas interfaces por ejemplo, es la barra de navegación que acompaña al
 ## 4.3. Landing Page UI Design. 
 ### 4.3.1. Landing Page Wireframe. 
 https://www.figma.com/file/VrvqvD4bqbiqYqz5nRM1HO/EcoMove-Wireframes?type=design&node-id=297-1161&mode=design
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/6wf.png?raw=true)
+
 ### 4.3.2. Landing Page Mock-up.
 https://www.figma.com/file/he3QIfgv7icZyQqpjaj5lT/EcoMove-Mockups?type=design&node-id=0-1&mode=design
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/8mk.png?raw=true)
+
 ## 4.4. Web Applications UX/UI Design. 
 ### 4.4.1. Web Applications Wireframes.
 https://www.figma.com/file/VrvqvD4bqbiqYqz5nRM1HO/EcoMove-Wireframes?type=design&node-id=0-1&mode=design
 https://www.figma.com/file/VrvqvD4bqbiqYqz5nRM1HO/EcoMove-Wireframes?type=design&node-id=103-185&mode=design
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/1wf.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/2wf.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/3wf.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/4wf.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/5wf.png?raw=true)
+
 ### 4.4.2. Web Applications Wireflow Diagrams. 	
 https://lucid.app/lucidchart/c6339a13-9402-4f27-9883-01ea0dab3146/edit?viewport_loc=-2294%2C-1232%2C3887%2C2067%2C0_0&invitationId=inv_7c7d72e9-6824-4dab-9a7f-f57f7a4fd49b
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/wire-flows.png?raw=true)
+
 ### 4.4.2. Web Applications Mock-ups. 
 https://www.figma.com/file/he3QIfgv7icZyQqpjaj5lT/EcoMove-Mockups?type=design&node-id=101-2&mode=design
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/1mk.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/2mk.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/3mk.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/4mk.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/5mk.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/6mk.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/7mk.png?raw=true)
+
 ### 4.4.3. Web Applications User Flow Diagrams. 
 https://overflow.io/s/ZZMCEAJ8
+
 ## 4.5. Web Applications Prototyping.
 https://www.figma.com/proto/he3QIfgv7icZyQqpjaj5lT?page-id=101%3A2&type=design&node-id=101-2&t=FbuJWROp6aNipoll-0&scaling=min-zoom&starting-point-node-id=101%3A1091&show-proto-sidebar=1
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/prototype.png?raw=true)
 
 ## 4.6. Domain-Driven Software Architecture.
 
