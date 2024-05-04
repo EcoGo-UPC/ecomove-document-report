@@ -268,6 +268,21 @@ EcoMove aprovecha la tecnología para conectar a los usuarios con vehículos el�
 |------|------|
 |Promover una movilidad urbana sostenible mediante el uso compartido de vehículos eléctricos, contribuyendo a la reducción de emisiones de carbono y creando ciudades más limpias y habitables.|Liderar la revolución hacia una movilidad urbana más limpia y accesible, siendo la opción preferida de transporte eléctrico compartido a nivel global.|
 
+### 1.1.2 Perfiles de integrantes del equipo
+
+|<!-- -->|<!-- -->|
+|--------|--------|
+|Nombre|Ames Oviedo, Mariano José (U202211371)|
+|Soy Mariano, tengo 18 años actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona responsable y dispuesta a afrontar desafíos. Considero que estas cualidades beneficiaran a mi equipo para poder completar un trabajo de calidad.| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/mariano-ames.jpeg?raw=true) |
+|Nombre|Morales Montalvo, Omar Andrew (U202212383)|
+|Soy Omar, tengo 18 años actualmente estoy cursando la carrera de Ingeniería de Software. Considero que puedo adaptarme a las situaciones que se me proponga en el equipo, logrando aportar en este de buena manera, para asegurar un trabajo bien hecho. Adémas siento que mis habilidades para aprender me van a poder ayudar a completar el curso de manera eficiente y apoyar a mi equipo en lo que se pueda..| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/omar-morales.png?raw=true) |
+|Nombre|Lecca Choccare, Christopher Bryan (U202211399)|
+|Soy Christopher, tengo 19 años y actualmente curso mi 5to ciclo de la carrera de Ingeniería de Software. Considero que mi determinación y disposición aportarán de manera significativa a presentar junto a mi equipo, trabajos de calidad. Además, mi capacidad rápida de aprendizaje ayudará a emplear las nuevas tecnologías enseñadas en el curso de forma eficiente.| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/christopher-lecca.jpg?raw=true) |
+|Nombre|Sosa Colca, Angello Rodolfo (U202212027)|
+|Tengo 18 años y curso el 5to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, soy una persona enfocada, perseverante y colaborativo. Estas cualidades me permiten ser una persona que ayudará de manera óptima el requisito que se me imponga. Además, soy una persona que apoya cuando los demás se encuentran en problemas.| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/angello-sosa.png?raw=true) |
+|Nombre|Tongo Alejandro, Milagros Salet (U202116078)|
+|Tengo 20 años y curso el 5to ciclo de la carrera de Ingeniería de Software. Me parece muy interesante crear soluciones en el computador y me gusta aprender cosas nuevas, como por ejemplo nuevos lenguajes de programación. Me considero una persona habilidosa y responsable.| ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/members/milagros-tongo.png?raw=true) |
+
 ## 1.2. Solution Profile
 ### 1.2.1	Antecedentes y problemática
 
