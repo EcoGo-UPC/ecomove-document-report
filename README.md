@@ -236,6 +236,18 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       Milagros Tongo: Inicié el proceso de needfinding realizando un exhaustivo análisis de usuarios para comprender a fondo sus necesidades, deseos y comportamientos. Esto implicó la creación detallada de user personas, representando a diferentes segmentos de usuarios con características y motivaciones distintas. Luego, llevé a cabo sesiones de journey mapping para visualizar los pasos que los usuarios realizan al interactuar con nuestro producto o servicio y finalmente realicé empathy mapping para identificar y comprender las emociones, pensamientos, preocupaciones y aspiraciones de nuestros usuarios. A traves de esto logre trabajar en equipo proporcionando un liderazgo conjunto al utilizar diferentes artefactos como user personas, que ayudarian a enfocar al equipo en la dirección correcta del proyecto.<br>
       Angello Sosa: Realicé los prototypes de la versión final de la web application, una interfaz intuitiva que logra llamar la atención del usuario e incentivarlo a utilizar la aplicación. Esto ayudo a mi equipo a trabajar en un entorno de liderazgo conjunto, al cada uno participar en el diseño y la creación de los prototipos de la web application. <br>
       Omar Morales: Además, al asegurar la coherencia y accesibilidad de la información, desarrollé habilidades de liderazgo y trabajo en equipo al establecer metas, planificar tareas y alcanzar objetivos con otros miembros del equipo. Esta experiencia resaltó la importancia de la comunicación efectiva y la coordinación en proyectos de ingeniería de software.
+      <br>TP1:<br>
+      Christopher Lecca: Me aseguré de transmitir mis ideas y resultados de manera clara y concisa, utilizando un lenguaje accesible para todo tipo de audiencias, desde ingenieros especializados hasta directivos de diferentes áreas.
+      </br>
+      <br>
+      Angello Sosa:Demostré habilidad para adaptar mi comunicación según el contexto y el nivel de conocimiento de quienes me escuchaban, ya sean compañeros técnicos o líderes no especializados en ingeniería.
+      </br>
+      <br>
+      Milagros Tongo: En comparación con entregas anteriores, logré comunicar de manera más efectiva conceptos técnicos complejos, utilizando ejemplos relevantes y analogías comprensibles para todos.
+      </br>
+      <br>
+      Mariano Ames: Desarrolle las diferentes vistas que se planearon en el anterior avance del proyecto. Para esto fue necesaria una comunidad clara con el equipo, lo que nos ayudo a mejorar la competencia de comunicación oral
+      </td>
       </td>
       <td>
       Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente
@@ -249,8 +261,24 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       Milagros Tongo: En el proceso de needfinding, me aseguré de establecer claramente los objetivos del proyecto, definiendo las metas específicas que queríamos alcanzar a través de nuestras investigaciones de usuarios. Esto incluyó identificar los resultados deseados tanto a corto como a largo plazo, asegurando que nuestras actividades estuvieran alineadas con la visión general del proyecto. Lo que me ayudo a poder definir tareas y metas que servirian para crear un entorno colaborativo e inclusivo<br>
       Angello Sosa: A través de los wireframes, establecí ideas que luego se convertirán en realidad durante el proceso de ejecución de la aplicación web. Con esto pude establecer metas y planificar tareas que tendriamos que cumplir luego en equipo.<br>
       Omar Morales:  Al crear un entorno colaborativo, establecer metas, planificar tareas y cumplir objetivos, desarrollé habilidades esenciales para la gestión de proyectos en ingeniería de software. La capacidad de establecer metas claras, planificar actividades y resolver problemas de manera efectiva fue fundamental para el éxito del proyecto.<br>
+        <br>TP: <br>
+        <br>Christopher Lecca: En esta segunda entrega, dirigí la implementación del segundo sprint de nuestro proyecto de desarrollo web. Con un enfoque minucioso y estratégico, planifiqué meticulosamente cada tarea para este período. Durante la reunión de planificación, comuniqué de manera clara y precisa las metas y expectativas del sprint, garantizando que todos en el equipo tuvieran una comprensión común.
+        <br>
+        <br>
+        Angello Sosa: Me encargue en la creacion de las paginas con un enfoque en UI design para que el usuario pueda acceder el contenido de una manera mas facil.
+        <br>
+        <br>
+        Mariano Ames: Al implementar diferentes vistas al proyecto, se tuvieron tambien que actualizar diferentes artefactos y elaborar la planeación del sprint, todas estas labores ayudaron al equipo a mejorar la competencia de comunicación escrita.
+        <br>
+        <br>
+        Milagros Tongo: Me encargué de crear y diseñar varias páginas web específicas para diferentes aspectos del proyecto. Esto incluyó la creación de páginas de confirmación, páginas de información soporte y otras páginas relevantes según las necesidades del proyecto. Cada página fue diseñada con un enfoque en la usabilidad, la accesibilidad y la estética para asegurar una experiencia de usuario óptima.
+        <br>
       </td>
-      <td></td>
+      <td> 
+        TB1: La realización de un diseño en Figma fortalece la comunicación efectiva en el desarrollo de EcoMove al proporcionar una representación visual clara y tangible del producto. Figma facilita la colaboración en tiempo real entre equipos multidisciplinarios, permitiendo que nuestros stakeholders comprendan fácilmente la estructura y funcionalidades del proyecto. Esto promueve una comprensión compartida y una alineación de objetivos, mejorando así la eficacia de la comunicación en el proceso. <br>
+        TP1:El enfoque de EcoMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica.<br>
+Además, la implementación de un API ficticio hasta que esté disponible el backend real muestra una visión proactiva hacia la comunicación transparente. A pesar de la falta de datos reales, este enfoque proporciona a los diferentes stakeholders una comprensión clara de cómo se integrarán y funcionarán los componentes del sistema final. Esto fomenta la participación y retroalimentación temprana, lo que a su vez mejora la comprensión mutua y la alineación de objetivos entre nuestro equipo de desarrollo.
+      </td>
     </tr>
   </tbody>
 </table>
@@ -1516,6 +1544,7 @@ Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a4442
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 En este sprint se utilizo github pages para desplegar la primera versión del proyecto. 
+Enlace del despligue: https://ecogo-upc.github.io/ecomove-landing-page/
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 ![image](https://github.com/EcoGo-UPC/ecomove-document-report/assets/129983231/b3fb7fee-7a54-403a-91af-f313d2f87b04)
@@ -1592,11 +1621,13 @@ Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date
 |ecomove-web-application|main|3c22ae9|feat: create web app|-|04/05/2024|
 
 
-#### 5.2.2.4. Testing Suite eviddence for sprint review
+#### 5.2.2.4. Testing Suite evidence for sprint review
 
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/web-app.png?raw=true)
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+Enlace de la aplicación desplegada: https://ecogo-upc.github.io/ecomove-landing-page/
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
@@ -1613,7 +1644,7 @@ Se utilizaron diferentes herramientas para lograr el despliegue de la landing pa
 
 - Netlify: Se utilizo para poder desplegar el proyecto.
 
-- Json-Server: Se utilizo para poder simular la conexión a una API
+- Render (JSON-Server): Se utilizo para poder simular la conexión a una API
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
