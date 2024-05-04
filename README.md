@@ -1592,6 +1592,10 @@ Se utilizaron diferentes herramientas para lograr el despliegue de la landing pa
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
+A continuacion se muestran los aportes de cada miembro del equipo en github en un periodo de una semana:
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/team-insights.png?raw=true)
+
 
 # Anexo
 ## Anexo A: Video de exposición de la TB1
