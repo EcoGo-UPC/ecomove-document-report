@@ -571,7 +571,7 @@ Cree que podriamos mejorar su experiencia si le mostramos información sobre est
 
 **Entrevista a Maverick Mendoza**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/angello-interview.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/angello-interview.PNG?raw=true)
 
 Intervalo: 02:25 - 06:49
 
@@ -579,7 +579,7 @@ En la entrevista con Maverick Mendoza, estudiante de la Universidad del Pacífic
 
 **Entrevista a Jeyson Tongo**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/milagros-interview.PNG?raw=true)
 
 Intervalo: 06:51 - 14:30
 
@@ -596,7 +596,7 @@ En la entrevista con Mauricio Rojas, un estudiante de Ingeniería de Software, s
 
 **Entrevista a Luis Garcia**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/mariano-interview.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/mariano-interview.PNG?raw=true)
 
 Intervalo 17:16 - 20:30
 
@@ -605,20 +605,12 @@ Durante la entrevista con Miguel García, residente de La Perla, se resaltó su 
 
 **Entrevista a Fernando Salgado**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/christopher-interview.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/christopher-interview.PNG?raw=true)
 
 Intervalo: 20:31 - 20:25
 
 Durante la entrevista con Fernando Salgado, residente de San Miguel, se destacó su perspectiva sobre diversas formas de transporte ecológico o público disponibles en la ciudad. Fernando expresó su interés en explorar alternativas de movilidad que sean amigables con el medio ambiente y que también sean accesibles para todos los ciudadanos. Fernando valora la importancia de utilizar medios de transporte más sostenibles y eficientes en su día a día. Considera que la incorporación de opciones ecológicas en su rutina de transporte no solo contribuye al cuidado del medio ambiente, sino que también puede ayudar a mejorar la calidad del aire y reducir la congestión vehicular en la ciudad.
 
-
-**Entrevista a Luis Garcia**
-
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/mariano-interview.png?raw=true)
-
-Intervalo 20:26 - 24:23
-
-Durante la entrevista con Luis García, residente de La Perla, se resaltó su búsqueda de alternativas de transporte rápido debido a la falta de transporte público causada por la pandemia. Luis expresó su preocupación por la reducción de opciones de movilidad y la necesidad de encontrar soluciones ágiles y eficientes para sus desplazamientos diarios.
 
 ### Analisis de entrevistas
 
