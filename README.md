@@ -1594,7 +1594,8 @@ Se utilizaron diferentes herramientas para lograr el despliegue de la landing pa
 
 A continuacion se muestran los aportes de cada miembro del equipo en github en un periodo de una semana:
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/team-insights.png?raw=true)
+![image](https://github.com/EcoGo-UPC/ecomove-document-report/assets/129983231/70c3c830-ee42-4d17-bfc7-2a6ff6757795)
+
 
 
 # Anexo
