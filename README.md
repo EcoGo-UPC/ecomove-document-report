@@ -1627,7 +1627,7 @@ Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-Enlace de la aplicación desplegada: https://ecogo-upc.github.io/ecomove-landing-page/
+Enlace de la aplicación desplegada: https://ecomove-web.netlify.app/
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
