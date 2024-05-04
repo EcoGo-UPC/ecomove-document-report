@@ -1565,6 +1565,31 @@ En este segundo Sprint se trabajo todo lo que esta involucrado al desarrollo de 
 
 #### 5.2.2.3. Development Evidence for sprint review
 
+Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|ecomove-web-application|vehicle-management|7baa18b|feat: add chose page|-|04/05/2024|
+|ecomove-web-application|vehicle-management|c77ec9b|feat: add tailwind configuration|-|03/05/2024|
+|ecomove-web-application|user-management|fdf75b4|feat: add registration confirmation|-|04/05/2024|
+|ecomove-web-application|user-management|3a7b0c8|feat: add rates view page|-|04/05/2024|
+|ecomove-web-application|user-management|ccb448b|feat: add profile page|-|04/05/2024|
+|ecomove-web-application|user-management|7ce7397|fix: fix pages directory and router|-|04/05/2024|
+|ecomove-web-application|user-management|d7a5b71|feat: fix rates page|-|04/05/2024|
+|ecomove-web-application|payment|3d672bb|feat: add confirmation card|-|04/05/2024|
+|ecomove-web-application|payment|1975203|fix: fixed router|-|04/05/2024|
+|ecomove-web-application|payment|c5acbf7|feat: add payment method page|-|04/05/2024|
+|ecomove-web-application|payment|225bdde|feat: add subscriptions page|-|04/05/2024|
+|ecomove-web-application|payment|5935c93|feat: input card data|-|04/05/2024|
+|ecomove-web-application|customer-support|ba8457c|fix: fix router|-|04/05/2024|
+|ecomove-web-application|customer-support|6b65da4|feat: add customer support|-|04/05/2024|
+|ecomove-web-application|customer-support|0d83ded|feat: add alerts|-|04/05/2024|
+|ecomove-web-application|booking-reservation|e250853|feat: add booking|-|04/05/2024|
+|ecomove-web-application|booking-reservation|0f26c5e|feat: add booking|-|04/05/2024|
+|ecomove-web-application|booking-reservation|8369613|feat: add reservation confirmation|-|04/05/2024|
+|ecomove-web-application|booking-reservation|477deb5|feat: add reservation page|-|04/05/2024|
+|ecomove-web-application|devleop|c77ec9b|feat: add tailwing configuration|-|04/05/2024|
+|ecomove-web-application|develop|ad00c02|Merge from hotfix|-|04/05/2024|
+|ecomove-web-application|devleop|541acd0|fix: fix router.js|-|04/05/2024|
+|ecomove-web-application|main|3c22ae9|feat: create web app|-|04/05/2024|
 
 
 #### 5.2.2.4. Testing Suite eviddence for sprint review
