@@ -1520,6 +1520,79 @@ En este sprint se utilizo github pages para desplegar la primera versión del pr
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 ![image](https://github.com/EcoGo-UPC/ecomove-document-report/assets/129983231/b3fb7fee-7a54-403a-91af-f313d2f87b04)
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 
+
+|**Sprint #**|Sprint 2|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-04-25|
+|Time|07:00 PM|
+|Location|Canal de Voz de la plataforma Discord|
+|Prepared By|Angello Sosa Colca|
+|Attendees (to planning meeting)|Ames Oviedo, Mariano José/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
+|Sprint 2 Review Summary|En resumen, del sprint anterior se logro completar el landing page, así como el despliegue de este.|
+|Sprint 2 Retrospective Summary|En resumen, del sprint anterior se vieron puntos de mejora en el equipo, como aumentar la comunicación y la organización para poder completar las tareas designadas.|
+|**Sprint Goal & User Stories**||
+|Sprint 2 Goal|<p>Goal: Terminar el desarrollo del Front-End y desplegarlo.</p><p>Métrica de cumplimiento: Poder visualizar el Front-End desplegado.</p>|
+|Sprint 2 Velocity|49|
+|Sum of Story Points|49|  
+
+#### 5.2.2.2. Sprint Backlog 2
+
+En este segundo Sprint se trabajo todo lo que esta involucrado al desarrollo de la Web Application, concentrandonos en el desarrollo de las funcionalidades más importantes.
+
+|Sprint #|Sprint 2|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|<p>Estimation</p><p>(Hours)</p>|Assigned To|Status (To-Do / In-Process/ To- Review/ Done)|
+|US01|Inicio de Sesión|T1|Inicio de Sesión|Desarrollo del login |2||Done|
+|US02|Registro de nuevo Usuario|T1|Registro de Usuario|Desarrollo del Sign Up|2||Done|
+|US03|Buscar Transporte Cercano|T2|Vista busqueda del transporte|Mostrar resultados de búsqueda en un mapa o lista|4||Done|
+|US04|Visualización de Disponibilidad|T3|Vista disponibilidad de vehiculos|Indicar disponibilidad de vehículos en la interfaz|4||Done|
+|US05|Reservar Transporte|T4|Vista formulario Reserva|Formulario para seleccionar vehículo, horario y realizar pago|5||Done|
+|US07|Calificación y Reseña|T5|Vista formulario Reseña|Formulario para escribir y publicar reseñas|5||Done|
+|US08|Opciones de pago|T11|Vista seccion pagos|Formulario de selección para añadir métodos de pago|6||Done|
+|US09|Historial de viajes|T6|Vista Historial de Viajes|Mostrar lista de viajes pasados con detalles|6||Done|
+|US10|Promociones y Descuentos|T7|Vista promociones en notificaciones|Mostrar notificaciones de promociones en la aplicación|3||<p></p><p>Done</p>|
+|US11|Soporte al cliente|T7|Vista soporte|Mostrar formulario para seleccionar el tipo de soporte y dejar su contacto|4||Done|
+|US13|Alertas de Seguridad|T8|Vista alertas en Notificaciones|Mostrar mensajes de seguridad|3||Done|
+|US12|Navegación por Mapa|T9|Vista mapa para la navegación|Integrar un mapa para visualizar la ubicación de vehículos y estaciones|6||Done|
+|US15|Paraderos de transporte publico|T9|Vista de los paraderos en el mapa|Mostrar información de paraderos en el mapa|6||In - Proccess|
+|US14|Personalización de preferencias|T10|Vista personalización de Usuario|Permitir al usuario modificar sus preferencias|4||In - Proccess|
+|US17|Reporte de problemas|T12|Vista seccion reports|Mostrar formulario para escribir y reportar su problema|4||Done|
+
+#### 5.2.2.3. Development Evidence for sprint review
+
+
+
+#### 5.2.2.4. Testing Suite eviddence for sprint review
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+En el sprint se utilizaron estas diferentes herramientas para lograr el desarrollo y despliegue correcto del frontend web application
+
+Se utilizaron diferentes herramientas para lograr el despliegue de la landing page en el presente sprint, a continuación el detalle de las mismas:
+
+- GitHub: Se utilizo para crear la organización y los repositorios que contienen nuestro proyecto.
+
+- Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
+
+- Netlify: Se utilizo para poder desplegar el proyecto.
+
+- Json-Server: Se utilizo para poder simular la conexión a una API
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+
 # Anexo
 ## Anexo A: Video de exposición de la TB1
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EegZ9IVUKbpCrDQ_RYJoJv4BFSFJTZxfLqNvFxj-DGkTwg?e=HA2Am4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
