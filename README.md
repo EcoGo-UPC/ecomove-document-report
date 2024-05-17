@@ -562,7 +562,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/ETv4cvfp
 
 **Entrevista a Sergio Caycho**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/omar1-interview.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/omar-interview-1.png?raw=true)
 
 Intervalo: 00:00 - 02:24
 
@@ -588,7 +588,7 @@ Durante la entrevista con Jeyson Tongo, residente del Cercado de Lima, se destac
 
 **Entrevista a Muricio Rojas**
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/omar2-interview.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/omar-interview-2.png?raw=true)
 
 Intervalo: 14:31 - 17:15
 
