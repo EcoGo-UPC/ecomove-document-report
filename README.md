@@ -1351,8 +1351,7 @@ El contexto de Customer Support (soporte al cliente) se enfoca en proporcionar a
 
 La base de datos de EcoMove es un componente fundamental de la plataforma que almacena y gestiona una variedad de datos relacionados con usuarios, vehículos, reservaciones, transacciones, membresías y más. Está diseñada para soportar las funcionalidades principales de la aplicación, incluyendo la gestión de usuarios, la reserva de vehículos, el seguimiento de transacciones financieras y la administración de membresías.
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/database-diagram.png?raw=true)
-
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/database-diagram.png?raw=true)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
