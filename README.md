@@ -1654,7 +1654,73 @@ A continuacion se muestran los aportes de cada miembro del equipo en github en u
 
 ![image](https://github.com/EcoGo-UPC/ecomove-document-report/assets/129983231/70c3c830-ee42-4d17-bfc7-2a6ff6757795)
 
+## 5.3. Validation Interviews
 
+### 5.3.1 Diseño de Entrevistas
+
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos, con la finalidad de validar nuestra propuesta de Web App y Landing Page.
+
+**Información general del entrevistado**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es su ocupación?
+4. Actualmente, ¿en qué lugar reside?
+
+**Segmento 1: Estudiantes universitarios urbanos**
+
+1. ¿Qué te pareció la primera impresión de nuestra landing page?
+2. ¿Fue fácil entender la propuesta de valor de nuestro servicio desde la landing page?
+3. ¿Cómo fue tu experiencia al navegar por nuestra web app? ¿Encontraste fácilmente la información que buscabas?
+4. ¿Tuviste algún problema al registrarte y comenzar a usar la aplicación?
+5. ¿Qué tan fácil te resultó alquilar una bicicleta o scooter eléctrico a través de nuestra aplicación web?
+6. ¿Qué opinas de la sugerencia de vehículos disponibles según en lugar donde te encuentres?
+7. ¿Qué tan importante es para ti que en nuestra aplicación web cuentes con un resgistro o historial de los viajes que realices?
+8. ¿Qué te gustó más y qué menos de tu experiencia usando nuestra aplicación web?
+
+**Segmento 2: Ciudadanos en busca de movilidad rápida y evitando el tráfico**
+
+1. ¿Qué te pareció la primera impresión de nuestra landing page?
+2. ¿Encontraste toda la información que necesitabas sobre nuestros servicios en la landing page?
+3. ¿Cómo calificarías la facilidad de uso de nuestra web app para alquilar bicicletas o scooters eléctricos?
+4. ¿Pudiste encontrar rápidamente la información que necesitabas para iniciar tu viaje?
+5. ¿Qué tan rápido y conveniente fue el proceso de alquiler de una bicicleta o scooter eléctrico?
+6. ¿Encontraste suficientes opciones de vehículos disponibles que te permitieran evitar el tráfico?
+7. ¿Cómo compararías la eficiencia de nuestro servicio con tu medio de transporte habitual durante las horas pico?
+8. ¿Qué aspectos de nuestra web app y servicio te resultaron más útiles y cuáles menos?
+
+### 5.3.2. Registro de entrevistas
+
+**Entrevista 1**
+
+Entrevistador: Omar Morales
+
+Entrevistado: Sergio Caycho
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/omar-interview3.png?raw=true)
+
+La entrevista con Sergio Cacho, un estudiante universitario urbano y primer segmento objetivo, reveló que tuvo una impresión muy positiva de la Landing Page, encontrándola intuitiva y clara en la propuesta de valor. Navegar por la aplicación web también fue sencillo, con encabezados claros que facilitaron la búsqueda de información. Sergio no encontró dificultades al registrarse ni al alquilar una bicicleta o scooter eléctrico, destacando la conveniencia de las sugerencias de vehículos cercanos. Valoró la importancia del registro de historial de viajes para futuras referencias. Lo que más le gustó fue la facilidad de uso de la interfaz, aunque sugirió mejorar la claridad sobre los métodos de pago.
+
+**Entrevista 2**
+
+Entrevistador: Milagros Tongo
+
+Entrevistado: Jeyson Tongo
+
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview3.png?raw=true)
+
+La entrevista se centró en validar la propuesta de la Landing Page y la aplicación web de alquiler de bicicletas eléctricas. El entrevistado encontró la interfaz amigable y la información concisa y fácilmente accesible. Destacó la intuitividad y rapidez de la reserva, la utilidad de la localización en tiempo real de los vehículos y la diversidad de opciones disponibles. Considera el servicio eficiente, especialmente en horas pico, y sugirió mejoras como una pestaña para reseñas y recomendaciones, y un ícono más representativo para los métodos de pago.
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/about-the-product.png?raw=true)
+
+Enlace en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/ESuhj_Oq0udDhCuU0hYWDVQBqyR6OWKHhbiT6vCvtSE2gg?e=TRR4rv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Enlace en YouTuve: https://youtu.be/meYDSwqoMgw
+
+Timing: 2:48
 
 # Anexo
 ## Anexo A: Video de exposición de la TB1
