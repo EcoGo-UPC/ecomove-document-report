@@ -1232,19 +1232,19 @@ Customer Support (Soporte al Cliente): Este actor representa el equipo encargado
 
 Además de estos actores, el sistema EcoMove se conecta a la API de Google Maps, que proporciona funcionalidades de mapeo y navegación. Esta conexión permite a los usuarios de EcoMove acceder a características como la visualización de rutas, la búsqueda de ubicaciones y la estimación de tiempos de viaje utilizando los servicios de mapas de Google.
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/context-diagram.PNG?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/context-diagram.png?raw=true)
 
 ### 4.6.2 Software Architecture Container Diagrams
 
 El diagrama de contexto del sistema de contenedores muestra la interacción entre el sistema y sus componentes externos, incluyendo la landing page, donde los usuarios obtienen información, la web application, que permite interactuar con el sistema, y el acceso a la base de datos, utilizada para almacenar y recuperar datos esenciales del sistema. Este esquema visual proporciona una visión clara de cómo el sistema se conecta con su entorno y los servicios clave que utiliza para su funcionamiento.
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/container-diagram.PNG?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/container-diagram.png?raw=true)
 
 ### 4.6.3 Software Architecture Components Diagrams
 
 El diagrama de componentes del sistema presenta los diferentes contextos, como el de User Management, Vehicle Management, Booking and Reservation, Customer Support, Payment, y Contenedores, unidos por el Shared Kernel. Cada contexto está representado por sus componentes clave, que incluyen clases, interfaces y servicios específicos, mientras que el Shared Kernel actúa como un conjunto central de funcionalidades compartidas entre los diferentes contextos. 
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/component-diagram.PNG?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/component-diagram.png?raw=true)
 
 ### 4.7. Software Object-Oriented Design
 
@@ -1351,7 +1351,7 @@ El contexto de Customer Support (soporte al cliente) se enfoca en proporcionar a
 
 La base de datos de EcoMove es un componente fundamental de la plataforma que almacena y gestiona una variedad de datos relacionados con usuarios, vehículos, reservaciones, transacciones, membresías y más. Está diseñada para soportar las funcionalidades principales de la aplicación, incluyendo la gestión de usuarios, la reserva de vehículos, el seguimiento de transacciones financieras y la administración de membresías.
 
-![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/database-diagram.PNG?raw=true)
+![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/database-diagram.png?raw=true)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
