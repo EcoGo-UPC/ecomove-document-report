@@ -1653,6 +1653,54 @@ A continuacion se muestran los aportes de cada miembro del equipo en github en u
 
 ![image](https://github.com/EcoGo-UPC/ecomove-document-report/assets/129983231/70c3c830-ee42-4d17-bfc7-2a6ff6757795)
 
+### 5.2.3. Sprint 3 
+
+#### 5.2.3.1. Sprint Planning 3. 
+A continuacion se muestra la planeación para nuestro tercer sprint
+
+|**Sprint #**|Sprint 3|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-05-06|
+|Time|07:00 PM|
+|Location|Canal de Voz de la plataforma Discord|
+|Prepared By|Angello Sosa Colca|
+|Attendees (to planning meeting)|Ames Oviedo, Mariano José/ Coraje Bayona, Jair Andreé/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
+|Sprint 2 Review Summary|En resumen, del sprint anterior se logro completar el frotend completo de nuestra aplicación web.|
+|Sprint 2 Retrospective Summary|En resumen, del sprint anterior se vieron puntos de mejora en el equipo, como aumentar la comunicación y la organización para poder completar las tareas designadas.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|<p>Goal: Para este sprint tenemos como objetivo implementar parcialmente del backend, así como realizar las entrevistas de validación con la finalidad de validar nuestra propuesta de Web App y Landing Page.|
+|Sprint 3 Velocity|49|
+|Sum of Story Points|49|
+
+#### 5.2.3.2. Sprint Backlog 3. 
+
+Se muestran las tareas que se tuvieron en cuenta para desarrollar en el presente sprint y se adjunta un link de trello con el tablero de las mismas.
+
+| Sprint # | Sprint 1 |           |           |           |           |           |           |
+| :-       | :-       | :-         | :-       | :-        | :-         | :-        | :-        |
+| User Story | Work-Item / Task |           |          |           |            |           |           |
+| Id       | Title    | Id         | Title    | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
+| US01     | Inico de sesión | W22 | User Management Bounded Context |Implementar el inicio de sesión a traves del API | 7 | Christopher Lecca | Done |
+| US05     | Reserva de trasporte | W23 | Booking Reservation Bounded Context |Implementar la reserva de un vehículo a traves del API | 7 | Mariano Ames | Done |
+| US08     | Opciones de pago | W24 | Payment Bounded Context | Implementar la funcion de guardar los datos de la tarjeta a traves del API | 5 | Angello Sosa | Done |
+| US04     | Visualización de disponibilidad de los vehículos | W25 | Vehicle Management Bounded Context | Implementar que a traves del API se muestre la disponibilidad | 6 | Christopher Lecca | Done |
+| US09     | Historial de revervas | W26 | Booking Reservation Bounded Context |Registrar cada reserva y mostrarla según el id el usuario | 7 | Mariano Ames | Done |
+| US17     | Soporte al cliente | W27 | Customer Support Bounded Context | Implementar la funcion de guardar los problemas reportaos a traves del API  | 5 | Milagros Tongo | Done |
+| US24     | Integración con servicio de geolocalización | W28 | Vehicle Management Bounded Context | La API debe devolver las coordenads del vehículo para que se de el servicio de geolocalización | 6 | Christopher Lecca | Done |
+
+Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16534bc4e2077C7939B51/sprint-3-ecomove-backend
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/trello-sprint-3.png?raw=true)
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review. 
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
+#### 5.2.3.5. Execution Evidence for Sprint Review. 
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+#### 5.2.3.8. Team Collaboration Insights during Sprint. 
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
