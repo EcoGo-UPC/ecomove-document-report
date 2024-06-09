@@ -1209,7 +1209,39 @@ https://www.figma.com/file/he3QIfgv7icZyQqpjaj5lT/EcoMove-Mockups?type=design&no
 ![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/7mk.png?raw=true)
 
 ### 4.4.3. Web Applications User Flow Diagrams. 
-https://overflow.io/s/4P9PM2G9
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-1.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-2.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-3.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-4.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-5.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-6.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-7.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-8.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-9.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-10.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-11.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-12.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-13.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-14.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-15.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-16.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/Board-17.png?raw=true)
 
 ## 4.5. Web Applications Prototyping.
 https://www.figma.com/proto/he3QIfgv7icZyQqpjaj5lT?page-id=101%3A2&type=design&node-id=101-2&t=FbuJWROp6aNipoll-0&scaling=min-zoom&starting-point-node-id=101%3A1091&show-proto-sidebar=1
