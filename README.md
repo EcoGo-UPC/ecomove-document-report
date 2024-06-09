@@ -1730,7 +1730,12 @@ Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+En en desarollo de presente sprint se utilizaron diferentes herramientas para la realización del backend.
+- GitHub: Se utilizo para crear la organización y los repositorios que contienen nuestro proyecto.
+- Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 
 ## 5.3. Validation Interviews
