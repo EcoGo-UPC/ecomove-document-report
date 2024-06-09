@@ -1740,13 +1740,15 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 **Entrevista 1**
 
-Entrevistador: Omar Morales
+Entrevistador: Angello Sosa
 
-Entrevistado: Sergio Caycho
+Entrevistado: Maverick Mendoza
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/omar-interview3.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/angello-interview3.png?raw=true)
 
-La entrevista con Sergio Cacho, un estudiante universitario urbano y primer segmento objetivo, reveló que tuvo una impresión muy positiva de la Landing Page, encontrándola intuitiva y clara en la propuesta de valor. Navegar por la aplicación web también fue sencillo, con encabezados claros que facilitaron la búsqueda de información. Sergio no encontró dificultades al registrarse ni al alquilar una bicicleta o scooter eléctrico, destacando la conveniencia de las sugerencias de vehículos cercanos. Valoró la importancia del registro de historial de viajes para futuras referencias. Lo que más le gustó fue la facilidad de uso de la interfaz, aunque sugirió mejorar la claridad sobre los métodos de pago.
+Intervalo: 00:00 - 07:25
+
+La entrevista con Maverick Mendoza, un estudiante universitario urbano, se enfocó en evaluar la Landing Page y la aplicación web de alquiler de bicicletas y scooters eléctricos. Maverick encontró la Landing Page muy intuitiva, dinámica y fácil de usar, destacando su diseño responsivo, lo cual es crucial ya que usa su iPhone constantemente. También entendió rápidamente la propuesta de valor, incluyendo los servicios, membresías y atención al cliente. Al navegar por la aplicación web, encontró la información fácilmente y tuvo una experiencia sencilla y rápida al registrarse y hacer una reserva. Apreció la conveniencia de las sugerencias de vehículos cercanos y consideró importante el registro de historial de viajes. Como puntos de mejora, sugirió la incorporación de más opciones de pago y la inclusión de motos eléctricas para ampliar la oferta.
 
 **Entrevista 2**
 
@@ -1756,7 +1758,57 @@ Entrevistado: Jeyson Tongo
 
 ![](https://github.com/UPC-EcoGo/ecomove-document-report/blob/main/images/interviews/milagros-interview3.png?raw=true)
 
+Intervalo: 07:30 - 11:25
+
 La entrevista se centró en validar la propuesta de la Landing Page y la aplicación web de alquiler de bicicletas eléctricas. El entrevistado encontró la interfaz amigable y la información concisa y fácilmente accesible. Destacó la intuitividad y rapidez de la reserva, la utilidad de la localización en tiempo real de los vehículos y la diversidad de opciones disponibles. Considera el servicio eficiente, especialmente en horas pico, y sugirió mejoras como una pestaña para reseñas y recomendaciones, y un ícono más representativo para los métodos de pago.
+
+**Entrevista 3**
+
+Entrevistador: Christopher Lecca
+
+Entrevistado: Fernando Salgado
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/christopher-interview3.png?raw=true)
+
+Intervalo: 11:25 - 18:11
+
+La entrevista con Fernando Salgado tuvo como objetivo evaluar la experiencia del usuario en la plataforma, incluyendo la Landing Page y la aplicación web. Fernando tuvo una impresión positiva de la Landing Page, destacando su diseño limpio, facilidad de navegación y organización de la información. Sin embargo, sugirió una sección más destacada sobre las preferencias y notificaciones. Al probar la aplicación web, encontró el proceso de registro y reserva intuitivo y rápido, dándole una calificación de 8/10. Apreció la disponibilidad de vehículos y la eficiencia del servicio comparado con su transporte habitual, destacando su conveniencia y impacto ecológico. Sugirió la implementación de un botón de preferencias para gestionar notificaciones y configuraciones, lo que mejoraría la experiencia del usuario.
+
+**Entrevista 4**
+
+Entrevistador: Omar Morales
+
+Entrevistado: Mauricio Rojas
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/omar-interview4.png?raw=true)
+
+Intervalo: 18:13 - 23:10
+
+La entrevista con Mauricio Rojas se centró en evaluar la Landing Page y la aplicación web para el alquiler de bicicletas y scooters eléctricos. Mauricio encontró la Landing Page muy dinámica, con un buen equilibrio de colores, diseño atractivo y animaciones efectivas, además de que entendió claramente la propuesta de valor enfocada en la movilidad eco-sostenible. Navegar por la aplicación web fue intuitivo, sin problemas para encontrar la información necesaria o registrarse. El proceso de reserva fue sencillo gracias a un formulario básico y la función de sugerencias de vehículos cercanos le pareció muy útil para ahorrar tiempo. Apreció la opción de historial de reservas por su utilidad para revisar transacciones pasadas. Como sugerencia, propuso incluir un apartado para publicar reseñas o calificaciones de los vehículos y servicios
+
+**Entrevista 5**
+
+Entrevistador: Omar Morales
+
+Entrevistado: Sergio Caycho
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/omar-interview3.png?raw=true)
+
+Intervalo: 23:13 - 25:58
+
+La entrevista con Sergio Cacho, un estudiante universitario urbano y primer segmento objetivo, reveló que tuvo una impresión muy positiva de la Landing Page, encontrándola intuitiva y clara en la propuesta de valor. Navegar por la aplicación web también fue sencillo, con encabezados claros que facilitaron la búsqueda de información. Sergio no encontró dificultades al registrarse ni al alquilar una bicicleta o scooter eléctrico, destacando la conveniencia de las sugerencias de vehículos cercanos. Valoró la importancia del registro de historial de viajes para futuras referencias. Lo que más le gustó fue la facilidad de uso de la interfaz, aunque sugirió mejorar la claridad sobre los métodos de pago.
+
+**Entrevista 6**
+
+Entrevistador: Mariano Ames
+
+Entrevistado: Luis García
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/mariano-interview3.png?raw=true)
+
+Intervalo 25:59 - 30:03
+
+En la entrevista con Luis García Díaz sobre la primera versión de la Landing Page y la aplicación web, Luis comentó que su primera impresión de la Landing Page fue positiva, encontrándola interactiva y fácil de navegar, con una propuesta de valor clara. Al explorar la aplicación web, destacó que la navegación fue rápida y sencilla, facilitando la reserva de vehículos y la visualización de ubicaciones cercanas. No encontró problemas al registrarse y usar la aplicación, describiendo el proceso de alquiler de vehículos como muy fácil. Luis valoró la funcionalidad de sugerencias de vehículos según la ubicación y la importancia del historial de viajes para el seguimiento de gastos y la elección de planes. Lo que más le gustó fue la facilidad de acceso a las diferentes secciones del perfil y las reservas. Como área de mejora, sugirió simplificar el acceso al soporte al cliente desde el perfil. En resumen, su experiencia fue mayoritariamente positiva con algunas recomendaciones para mejorar.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
