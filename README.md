@@ -1738,6 +1738,10 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 5.3.2. Registro de entrevistas
 
+Enlace de todas las entrevistas juntas: 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EZt-V8qu-SlCsg6N-bHZmlABNMdtpKt9tFYZHl-g83KFzw?e=2fhm5y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 **Entrevista 1**
 
 Entrevistador: Angello Sosa
