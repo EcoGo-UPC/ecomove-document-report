@@ -1728,13 +1728,23 @@ Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16
 
 #### 5.2.3.3. Development Evidence for Sprint Review. 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
-#### 5.2.3.5. Execution Evidence for Sprint Review. 
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En el presente agregamos vistas en el frontend, para que se tenga una mejor presentación y navegación, se puede acceder a la aplicación web a mediante el siguiente enlace. https://ecomove-web.netlify.app/inicio
+
+En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un vidoe promocional como a nuestro equipo.
+
+https://ecogo-upc.github.io/ecomove-landing-page/
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
 En en desarollo de presente sprint se utilizaron diferentes herramientas para la realización del backend.
-- GitHub: Se utilizo para crear la organización y los repositorios que contienen nuestro proyecto.
-- Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
+
+* GitHub: Se utilizo para crear la organización y los repositorios que contienen nuestro proyecto.
+  
+* Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 
