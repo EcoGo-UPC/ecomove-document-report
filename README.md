@@ -1843,7 +1843,11 @@ En en desarollo de presente sprint se utilizaron diferentes herramientas para la
   
 * Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint. 
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+En la siguiente imágen se muestra la evidencia de la participación de cada integrante
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/team_collabotation1.png?raw=true)
 
 ## 5.3. Validation Interviews
 
