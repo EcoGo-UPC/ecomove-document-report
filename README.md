@@ -1725,8 +1725,15 @@ Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16
 
 ![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/trello-sprint-3.png?raw=true)
 
-
 #### 5.2.3.3. Development Evidence for Sprint Review. 
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
+|ecomove-landing-page|main|7da6ccdebe27799d510299b09a97600ac6e55b69|fix: update main.yml|-|09/06/2024|
+|ecomove-landing-page|main|c2d47aea493ec21968d270a1686e5de5d5fa5fe3|feat: add videos|-|09/06/2024|
+|ecomove-landing-page|main|862dfbeb8d5832ff37c95f9be5192cd84a9a4eb3|Merge from develop|-|09/06/2024|
+|ecomove-landing-page|main|c3119c4188a957cb3bb4b1648e4f02494683c3ec|Merge from US18|-|09/06/2024|
+|ecomove-web-service|main|d6d93e64b078df3bbbc530c53c8c220d2f81f95f|initial commit|-|14/06/2024|
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
