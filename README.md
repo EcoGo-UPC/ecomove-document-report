@@ -1847,8 +1847,8 @@ https://ecogo-upc.github.io/ecomove-landing-page/
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
-En el desarrollo del presente trabajo se logro completar con los endpoints de manera exitosa, se puede encontrar en el siguiente enlace:
-https://ecomove-web-api.azurewebsites.net/swagger/index.html
+En el desarrollo del presente trabajo se logro completar con los endpoints de manera exitosa, se puede encontrar el repositorio respectivo a través del siguiente enlace:
+https://github.com/EcoGo-UPC/ecomove-web-service
 
 ![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/1.png?raw=true)
 
@@ -1877,6 +1877,12 @@ En en desarollo de presente sprint se utilizaron diferentes herramientas para la
 * GitHub: Se utilizo para crear la organización y los repositorios que contienen nuestro proyecto.
   
 * Git: Se utilizo para el control de versiones dentro de nuestro proyecto.
+
+* Gitflow: Flujo de trabajo colaborativo, esto nos permitió dividir el trabajo por ramas dentro de nuestro repositorio con la finalidad de facilitar la colaboración en el desarrollo.
+  
+* Swagger Ui: Herramienta para probar y documentar nuestra API.
+
+El enlace hacia la web API correspondiente al sprint se encuentra:  https://ecomove-web-api.azurewebsites.net/swagger/index.html
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -2096,7 +2102,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 Enlace en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/ESuhj_Oq0udDhCuU0hYWDVQBqyR6OWKHhbiT6vCvtSE2gg?e=TRR4rv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Enlace en YouTuve: https://youtu.be/meYDSwqoMgw
+Enlace en YouTube: https://youtu.be/meYDSwqoMgw
 
 Timing: 2:48
 
