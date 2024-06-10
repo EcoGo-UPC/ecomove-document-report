@@ -249,6 +249,24 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       Mariano Ames: Desarrolle las diferentes vistas que se planearon en el anterior avance del proyecto. Para esto fue necesaria una comunidad clara con el equipo, lo que nos ayudo a mejorar la competencia de comunicación oral
       </td>
       </td>
+  <br>TB2:<br>
+      Christopher Lecca: Durante el desarrollo del backend, me enfoqué en la implementación de la arquitectura DDD. Tomé la iniciativa en liderar la integración de los bounded context, asegurando que el equipo comprendiera y siguiera las mejores prácticas de diseño. Mi liderazgo técnico fue crucial para mantener la coherencia y calidad del código, y ayudé a resolver problemas complejos que surgieron durante el proceso.
+      </br>
+      <br>
+      Angello Sosa:Asumí un rol de liderazgo en la creación del video sobre el producto. Coordinar el equipo y planificar el contenido visual y explicativo fueron mis principales responsabilidades. Me aseguré de que cada miembro del equipo aportara sus ideas y habilidades, logrando un video que destacara las características y beneficios del producto de manera efectiva y atractiva.
+      </br>
+      <br>
+      Milagros Tongo: En la mejora del frontend, lideré el equipo en la implementación de nuevas funcionalidades y mejoras de diseño. Guié al equipo en la adopción de nuevas tecnologías y enfoques, asegurándome de que todos estuvieran alineados con los objetivos del proyecto. Mi liderazgo ayudó a mejorar significativamente la experiencia del usuario final.
+      </br>
+      <br>
+      Mariano Ames: Durante el desarrollo del backend con enfoque en DDD, lideré varias reuniones de revisión donde discutimos el progreso y los desafíos técnicos. Mi papel fue crucial para mantener al equipo enfocado y motivado, asegurando que todos comprendieran sus responsabilidades y contribuyeran de manera efectiva al éxito del proyecto.
+  <br>
+   <br>
+      Omar Morales: Lideré la producción del video sobre el equipo, coordinando entrevistas y la presentación del trabajo colaborativo. Me aseguré de que el video reflejara no solo nuestras habilidades técnicas, sino también nuestro espíritu de equipo y la sinergia que logramos. Mi capacidad para gestionar el proyecto y motivar al equipo fue clave para el resultado final.
+  <br>
+      </td>
+      </td>
+      </td>
       <td>
       Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente
       </td>
@@ -273,6 +291,23 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
         <br>
         Milagros Tongo: Me encargué de crear y diseñar varias páginas web específicas para diferentes aspectos del proyecto. Esto incluyó la creación de páginas de confirmación, páginas de información soporte y otras páginas relevantes según las necesidades del proyecto. Cada página fue diseñada con un enfoque en la usabilidad, la accesibilidad y la estética para asegurar una experiencia de usuario óptima.
         <br>
+        <br>TB2:<br>
+      Christopher Lecca: En el desarrollo del backend con DDD, promoví un ambiente inclusivo donde todos los miembros del equipo se sintieran valorados y escuchados. Establecí metas claras y realistas, y planifiqué las tareas de manera que cada miembro pudiera contribuir según sus fortalezas. Este enfoque inclusivo permitió que alcanzáramos nuestros objetivos de manera eficiente y armoniosa.
+      </br>
+      <br>
+      Angello Sosa: Durante la mejora del frontend, trabajé para crear un entorno colaborativo donde cada miembro del equipo pudiera aportar sus ideas y habilidades. Establecí metas específicas y detalladas, y planifiqué las tareas necesarias para alcanzarlas. Mi liderazgo en la planificación y ejecución de estas mejoras resultó en un producto más intuitivo y amigable para el usuario.
+      </br>
+      <br>
+      Milagros Tongo: En la producción del video sobre el producto, creé un entorno donde todos se sintieran cómodos contribuyendo. Establecí objetivos claros y coordiné las tareas de manera efectiva, asegurando que todos supieran qué se esperaba de ellos. Gracias a este enfoque colaborativo, logramos producir un video que destacaba nuestras innovaciones de manera clara y atractiva.
+      </br>
+      <br>
+      Mariano Ames: Planifiqué y ejecuté tareas para la mejora del frontend, fomentando un entorno inclusivo donde cada idea fuera considerada. Establecí metas desafiantes pero alcanzables, y guié al equipo en la planificación de tareas que maximizaran nuestras capacidades colectivas. Este proceso no solo mejoró la interfaz del usuario, sino también fortaleció la cohesión del equipo.
+  <br>
+   <br>
+      Omar Morales: En la creación del video sobre el equipo, promoví un ambiente inclusivo y colaborativo. Establecí metas claras para la narrativa y la producción, y asigné tareas específicas a cada miembro del equipo, considerando sus habilidades individuales. Mi planificación y liderazgo permitieron que el video reflejara tanto nuestro trabajo técnico como la dinámica positiva del equipo, cumpliendo con todos nuestros objetivos.
+  <br>
+      </td>
+      </td>
       </td>
       <td> 
         TB1: La realización de un diseño en Figma fortalece la comunicación efectiva en el desarrollo de EcoMove al proporcionar una representación visual clara y tangible del producto. Figma facilita la colaboración en tiempo real entre equipos multidisciplinarios, permitiendo que nuestros stakeholders comprendan fácilmente la estructura y funcionalidades del proyecto. Esto promueve una comprensión compartida y una alineación de objetivos, mejorando así la eficacia de la comunicación en el proceso. <br>
@@ -1847,7 +1882,7 @@ En en desarollo de presente sprint se utilizaron diferentes herramientas para la
 
 En la siguiente imágen se muestra la evidencia de la participación de cada integrante
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/team_collabotation1.png?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/team_collabotation2.png?raw=true)
 
 ## 5.3. Validation Interviews
 
