@@ -1697,7 +1697,7 @@ A continuacion se muestra la planeación para nuestro tercer sprint
 |Time|07:00 PM|
 |Location|Canal de Voz de la plataforma Discord|
 |Prepared By|Angello Sosa Colca|
-|Attendees (to planning meeting)|Ames Oviedo, Mariano José/ Coraje Bayona, Jair Andreé/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
+|Attendees (to planning meeting)|Ames Oviedo, Mariano José/ Morales Montalvo, Omar Andrew/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
 |Sprint 2 Review Summary|En resumen, del sprint anterior se logro completar el frotend completo de nuestra aplicación web.|
 |Sprint 2 Retrospective Summary|En resumen, del sprint anterior se vieron puntos de mejora en el equipo, como aumentar la comunicación y la organización para poder completar las tareas designadas.|
 |**Sprint Goal & User Stories**||
@@ -1727,12 +1727,14 @@ Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16
 
 #### 5.2.3.3. Development Evidence for Sprint Review. 
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited On |
-|ecomove-landing-page|main|7da6ccdebe27799d510299b09a97600ac6e55b69|fix: update main.yml|-|09/06/2024|
-|ecomove-landing-page|main|c2d47aea493ec21968d270a1686e5de5d5fa5fe3|feat: add videos|-|09/06/2024|
-|ecomove-landing-page|main|862dfbeb8d5832ff37c95f9be5192cd84a9a4eb3|Merge from develop|-|09/06/2024|
-|ecomove-landing-page|main|c3119c4188a957cb3bb4b1648e4f02494683c3ec|Merge from US18|-|09/06/2024|
-|ecomove-web-service|main|d6d93e64b078df3bbbc530c53c8c220d2f81f95f|initial commit|-|14/06/2024|
+| Repository             | Branch | Commit Id                               | Commit Message            | Commit Message Body | Commited On |
+|------------------------|--------|----------------------------------------|---------------------------|---------------------|-------------|
+| ecomove-landing-page   | main   | 7da6ccdebe27799d510299b09a97600ac6e55b69| fix: update main.yml      | -                   | 09/06/2024  |
+| ecomove-landing-page   | main   | c2d47aea493ec21968d270a1686e5de5d5fa5fe3| feat: add videos          | -                   | 09/06/2024  |
+| ecomove-landing-page   | main   | 862dfbeb8d5832ff37c95f9be5192cd84a9a4eb3| Merge from develop        | -                   | 09/06/2024  |
+| ecomove-landing-page   | main   | c3119c4188a957cb3bb4b1648e4f02494683c3ec| Merge from US18           | -                   | 09/06/2024  |
+| ecomove-web-service    | main   | d6d93e64b078df3bbbc530c53c8c220d2f81f95f| initial commit            | -                   | 14/06/2024  |
+
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
