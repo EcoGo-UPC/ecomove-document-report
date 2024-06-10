@@ -1884,6 +1884,10 @@ En la siguiente imágen se muestra la evidencia de la participación de cada int
 
 ![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/team_collabotation2.png?raw=true)
 
+Network Gragh
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/network_gragh.png?raw=true)
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
