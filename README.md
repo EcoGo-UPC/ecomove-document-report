@@ -1734,6 +1734,30 @@ Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16
 | ecomove-landing-page   | main   | 862dfbeb8d5832ff37c95f9be5192cd84a9a4eb3| Merge from develop        | -                   | 09/06/2024  |
 | ecomove-landing-page   | main   | c3119c4188a957cb3bb4b1648e4f02494683c3ec| Merge from US18           | -                   | 09/06/2024  |
 | ecomove-web-service    | main   | d6d93e64b078df3bbbc530c53c8c220d2f81f95f| initial commit            | -                   | 14/06/2024  |
+| ecomove-web-service    | feature/US01   | 71ae3cce4e32bad5ae4a44c78a9ebeee7000fcc8| feat: add authorization controller | -                   | 08/06/2024  |
+| ecomove-web-service    | feature/US01   | d8297c8ad0f63b8b85be3988327eb967ae4b7450| feat: add membership categories controller | -                   | 08/06/2024  |
+| ecomove-web-service    | feature/US01   | fefff8906f41c8f00ed44426916cc33c13d5cb80| feat: add memberships controller | -                   | 08/06/2024  |
+| ecomove-web-service    | feature/US01   | 0c1f53d8518d112bd21bfc4ccef2d069c992640f| feat: add users controller | -                   | 08/06/2024  |
+| ecomove-web-service    | feature/US01   | 7aefc15c7de845dccad6ae0fe218e0fe53c3186f| feat: add user management transform | -                   | 08/06/2024  |
+| ecomove-web-service    | feature/US01   | 397b58383fa77a06f64dbcb015fcd5b755e1a589| feat: add user management resources | -                   | 08/06/2024  |
+| ecomove-web-service    | feature/US01   | 9cc44a44484acf4f1c693cab510105f90c4eb514| feat: add user management context facade | -                   | 08/06/2024  |
+| ecomove-web-service    | feature/US01   | a19a36d5e9451d065cafaefa8280e83bf5c1bb15| feat: add json web token service | -                   | 08/06/2024  |
+| ecomove-web-service    | feature/US01   | 38e899166ab8992a2f57057887757700803593b4| feat: add authorization middleware | -                   | 08/06/2024  |
+| ecomove-web-service    | feature/US01   | 9e2c8ff5e2837f000905b599dfb35091e5c83180| feat: add user management repositories implementation | -                   | 08/06/2024  |
+| ecomove-web-service    | feature/US05   | e156e21dfc8c47367e79572b2fada3e536ad03d2| feat: add controller and resources to BookingReservation interface layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US05   | f6d665a36a04b17f575509f5beb949697eda84ee| feat: add services implementation to BookingResevation application layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US05   | 0f74c0ec696a2c8d5d78fa11da7b4e101f8fd3b6| feat: add repository to BookingReservation infrastructure layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US05   | 1b9e0efdfb58171bf5363ceb8d4cfa8d72941f22| feat: add services to BookingReservation domain layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US05   | 524d01da13b186aec4d5a677fda6295fe962f0c3| feat: add Respositories to BookingReservation domain layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US05   | 1209460ba5eddbb7f3462303e62db5721d95a267| feat: add Model to BookingReservation DomainLayer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US17   | 16609cfc39324b1f518158adb133f447bd7dbf6b| feat: add interfaces REST | -                   | 09/06/2024  |
+| ecomove-web-service    | feature/US17   | 79fc3230fc682aeda14af9fcf866eaf1bd34a51a| feat: add interfaces transform | -                   | 09/06/2024  |
+| ecomove-web-service    | feature/US17   | 7d86c3e6bfd210c77ccdbae8ad2031ca5b2b925c| feat: add interfaces resources | -                   | 09/06/2024  |
+| ecomove-web-service    | feature/US17   | e0bf24b3b9565a0e9090ef338bf57492ec8c925b| feat: add Infrastructure | -                   | 09/06/2024  |
+| ecomove-web-service    | feature/US17   | 721d8aab59c0495cf24f7e8daf11abd50d5b20cf| feat: add application | -                   | 09/06/2024  |
+| ecomove-web-service    | feature/US17   | 2dea95fdde3f99e29c378d5ae7f1c9192c951890| feat: add domain services | -                   | 09/06/2024  |
+| ecomove-web-service    | feature/US17   | 5f354aa8fb53c694141ff1607a71264c2f1ba350| feat: add domain repositories | -                   | 09/06/2024  |
+| ecomove-web-service    | feature/US17   | 039340c0285365d7809964582e18d5d5a75242e6| feat: add domain model | -                   | 09/06/2024  |
 
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
