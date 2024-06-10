@@ -1758,6 +1758,11 @@ Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16
 | ecomove-web-service    | feature/US17   | 2dea95fdde3f99e29c378d5ae7f1c9192c951890| feat: add domain services | -                   | 09/06/2024  |
 | ecomove-web-service    | feature/US17   | 5f354aa8fb53c694141ff1607a71264c2f1ba350| feat: add domain repositories | -                   | 09/06/2024  |
 | ecomove-web-service    | feature/US17   | 039340c0285365d7809964582e18d5d5a75242e6| feat: add domain model | -                   | 09/06/2024  |
+| ecomove-web-service    | feature/US04   | 26ef5d503264c383f49ba35911b0929f114232be| feat: add interface layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US04   | 53738a49ccca07a55c5a61d9b7a1539f5ab0c024| feat: infraestructure layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US04   | 257a62917c77d9d3f0b142fba4ae3feddbf4ac31| feat: add application layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US04   | 762e681b44d0ed78385a0ffb15c933765212c221| feat: add vehicle management domain layer | -                   | 10/06/2024  |
+
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
 
@@ -1792,6 +1797,10 @@ Enlace de trello: https://trello.com/invite/b/5IyyBMOq/ATTIabd0963bed238c10f1c16
 | ecomove-web-service    | feature/US17   | 2dea95fdde3f99e29c378d5ae7f1c9192c951890| feat: add domain services | -                   | 09/06/2024  |
 | ecomove-web-service    | feature/US17   | 5f354aa8fb53c694141ff1607a71264c2f1ba350| feat: add domain repositories | -                   | 09/06/2024  |
 | ecomove-web-service    | feature/US17   | 039340c0285365d7809964582e18d5d5a75242e6| feat: add domain model | -                   | 09/06/2024  |
+| ecomove-web-service    | feature/US04   | 26ef5d503264c383f49ba35911b0929f114232be| feat: add interface layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US04   | 53738a49ccca07a55c5a61d9b7a1539f5ab0c024| feat: infraestructure layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US04   | 257a62917c77d9d3f0b142fba4ae3feddbf4ac31| feat: add application layer | -                   | 10/06/2024  |
+| ecomove-web-service    | feature/US04   | 762e681b44d0ed78385a0ffb15c933765212c221| feat: add vehicle management domain layer | -                   | 10/06/2024  |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
