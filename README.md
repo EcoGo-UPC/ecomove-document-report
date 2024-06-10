@@ -1803,6 +1803,29 @@ https://ecogo-upc.github.io/ecomove-landing-page/
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
+En el desarrollo del presente trabajo se logro completar con los endpoints de manera exitosa, se puede encontrar en el siguiente enlace:
+https://ecomove-web-api.azurewebsites.net/swagger/index.html
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/1.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/2.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/3.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/4.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/5.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/6.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/7.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/8.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/9.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/10.png?raw=true)
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 
 En en desarollo de presente sprint se utilizaron diferentes herramientas para la realización del backend.
