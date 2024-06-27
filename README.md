@@ -1623,7 +1623,7 @@ Enlace: https://trello.com/invite/b/mbzjoFQL/ATTIbf16007f71639fc082291cd7f6a4442
 |ecomove-document-report|main|97bcef6|docs: add startup profile to the report||13/04/2024|
 |ecomove-document-report|main|a8ae752|docs: add solution profile||14/04/2024|
 |ecomove-document-report|main|23ba7ec|docs: add requirements elicitation analysis||14/04/2024|
-|ecomove-document-report|main|42ebcab|docs: add chapter-3-and-4|14/04/2024|
+|ecomove-document-report|main|42ebcab|docs: add chapter-3-and-4||14/04/2024|
 |ecomove-document-report|main|da14dae|docs: add software architecture||14/04/2024|
 |ecomove-document-report|main|777c211|docs: docs: add user journey mapping||14/04/2024|
 |ecomove-document-report|main|719338d|docs: docs: add software configuration management||14/04/2024
@@ -1986,6 +1986,20 @@ Enlace de trello: https://trello.com/invite/b/3cITzLzF/ATTI112a9e56db640d83ca472
 
 | Repository             | Branch | Commit Id                               | Commit Message            | Commit Message Body | Commited On |
 |------------------------|--------|----------------------------------------|---------------------------|---------------------|-------------|
+|ecomove-document-report|main|d32a4cb3d5aeadc1a51755945e470c3fef6ffc46|docs: update outcomes|-|27/06/2024|
+|ecomove-document-report|main|76aeef81e6fe8dd428acc55bbd955eb72f976957|docs: Software Deployment Evidence for Sprint Review and Testing Suite Evidence for Sprint Review|-|27/06/2024|
+|ecomove-document-report|main|924c23487af57b2ac82739dad8ffe1e2111c04f4|docs: add Execution Evidence for Sprint Review.|-|27/06/2024|
+|ecomove-document-report|main|dccb7c31eddc4a9b40f739e82c3fc9a66a941afb|docs: add Sprint Backlog 4.|-|27/06/2024|
+|ecomove-document-report|main|86202705c3cb9a767a96c716f86fe8f96ddbfecc|docs: add Sprint Planning 4|-|27/06/2024|
+|ecomove-acceptance-test|main|00c0bf3035d4d87fe02387747ec5020ccec97a59|feat: create eighth feature|-|27/06/2024|
+|ecomove-acceptance-test|main|3f3ae6695bea49f6bf25f55c10b99e98350f9d3e|feat: create seventh feature|-|27/06/2024|
+|ecomove-acceptance-test|main|182289063fd8d2662b4c16992035e3cbf637a2bb|feat: create sixth feature|-|27/06/2024|
+|ecomove-acceptance-test|main|9e717b6903c33b321884d37b51fd91ab6fcef823|feat: create fifth feature|-|27/06/2024|
+|ecomove-acceptance-test|main|2a0c5eb6f61cf8a3dd58fdc8043a22e05eb6e868|feat: create fourth feature|-|27/06/2024|
+|ecomove-acceptance-test|main|91d352e7d8b71426730378522aaa62532cb4f758|feat: create third feature|-|27/06/2024|
+|ecomove-acceptance-test|main|c7ef5ea3eda966b11a26f01ea5ce0cc1b2eebc72|feat: create second feature|-|27/06/2024|
+|ecomove-acceptance-test|main|ad1a8c6c93ac2ac6e33b54e6ba110e7dc01177b3|feat: add first feature|-|27/06/2024|
+
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
