@@ -1949,6 +1949,7 @@ Enlace de trello: https://trello.com/invite/b/3cITzLzF/ATTI112a9e56db640d83ca472
 | ecomove-acceptance-tests  | main   | 00c0bf3035d4d87fe02387747ec5020ccec97a59   | feat: create eighth feature  | -                   | 27/06/2024        |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
+Para este sprint validamos que las peticiones del frontend concuerden con las del backend, se puede acceder desde el sigueinte enlace:
 https://ecomove-web.netlify.app/inicio
 
 ## 5.3. Validation Interviews
