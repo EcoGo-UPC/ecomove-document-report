@@ -119,12 +119,82 @@
         5.2.1.2. Sprint Backlog 1. <br>
         5.2.1.3. Development Evidence for Sprint Review. <br>
         5.2.1.4. Testing Suite Evidence for Sprint Review. <br>
-        5.2.1.5. Execution Evidence for Sprint Review. <br>        
-        <br>
+        5.2.1.5. Execution Evidence for Sprint Review. <br>
+        5.2.1.6. Services Documentation Evidence for Sprint Review <br>
+        5.2.1.7. Software Deployment Evidence for Sprint Review <br>
+        5.2.1.8. Team collaboration Insights during Sprint <br>
+      </td>
+    </tr>
+    <tr>
+      <td>2da</td>
+      <td>03/05/2024</td>
+      <td>
+        - Ames Oviedo, Mariano José <br>
+        - Morales Montalvo, Omar Andrew<br>
+        - Lecca Choccare, Christopher Bryan <br>
+        - Sosa Colca, Angello Rodolfo <br>
+        - Tongo Alejando, Milagros Salet <br>
+      </td>
+      <td>
+        5.2.1. Sprint 2. <br>
+        5.2.1.1. Sprint Planning 2. <br>
+        5.2.1.2. Sprint Backlog 2. <br>
+        5.2.1.3. Development Evidence for Sprint Review. <br>
+        5.2.1.4. Testing Suite Evidence for Sprint Review. <br>
+        5.2.1.5. Execution Evidence for Sprint Review. <br>
+        5.2.1.6. Services Documentation Evidence for Sprint Review <br>
+        5.2.1.7. Software Deployment Evidence for Sprint Review <br>
+        5.2.1.8. Team collaboration Insights during Sprint <br>
+      </td>
+    </tr>
+    <tr>
+      <td>3era</td>
+      <td>10/08/2024</td>
+      <td>
+        - Ames Oviedo, Mariano José <br>
+        - Morales Montalvo, Omar Andrew<br>
+        - Lecca Choccare, Christopher Bryan <br>
+        - Sosa Colca, Angello Rodolfo <br>
+        - Tongo Alejando, Milagros Salet <br>
+      </td>
+      <td>
+        5.2.3. Sprint 3. <br>
+        5.2.3.1. Sprint Planning 3. <br>
+        5.2.3.2. Sprint Backlog 3. <br>
+        5.2.3.3. Development Evidence for Sprint Review. <br>
+        5.2.3.4. Testing Suite Evidence for Sprint Review. <br>
+        5.2.3.5. Execution Evidence for Sprint Review. <br>
+        5.2.3.6. Services Documentation Evidence for Sprint Review <br>
+        5.2.3.7. Software Deployment Evidence for Sprint Review <br>
+        5.2.3.8. Team collaboration Insights during Sprint <br>
+      </td>
+    </tr>
+    <tr>
+      <td>4ta</td>
+      <td>15/10/2024</td>
+      <td>
+        - Ames Oviedo, Mariano José <br>
+        - Morales Montalvo, Omar Andrew<br>
+        - Lecca Choccare, Christopher Bryan <br>
+        - Sosa Colca, Angello Rodolfo <br>
+        - Tongo Alejando, Milagros Salet <br>
+      </td>
+      <td>
+        5.2.4. Sprint 4. <br>
+        5.2.4.1. Sprint Planning 4. <br>
+        5.2.4.2. Sprint Backlog 4. <br>
+        5.2.4.3. Development Evidence for Sprint Review. <br>
+        5.2.4.4. Testing Suite Evidence for Sprint Review. <br>
+        5.2.4.5. Execution Evidence for Sprint Review. <br>
+        5.2.4.6. Services Documentation Evidence for Sprint Review <br>
+        5.2.4.7. Software Deployment Evidence for Sprint Review <br>
+        5.2.4.8. Team collaboration Insights during Sprint <br>
       </td>
     </tr>
   </tbody>
 </table>
+
+
 
 
 ## Project Report Collaboration Insights
