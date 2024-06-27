@@ -1894,6 +1894,37 @@ Network Gragh
 
 ![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/network_gragh.png?raw=true)
 
+
+### 5.2.3. Sprint 4 
+
+#### 5.2.4.1. Sprint Planning 4.
+A continuacion se muestra la planeación para nuestro cuarto sprint
+
+|**Sprint #**|Sprint 4|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-24-06|
+|Time|04:00 PM|
+|Location|Canal de Voz de la plataforma Discord|
+|Prepared By|Angello Sosa Colca|
+|Attendees (to planning meeting)|Ames Oviedo, Mariano José/ Morales Montalvo, Omar Andrew/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
+|Sprint 4 Review Summary|En resumen, en el sprint 4, se logró implementar de forma completa el backend y realizar las pruebas respectivas utilizando Swagger. Además se llegó a cumplir con todas las tasks para el entregable.|
+
+|Sprint 4 Retrospective Summary|Logramos cumplir con todo el sprint 4 de manera satisfactoria. No obstante, notamos como punto de mejora realizar la documentación del código.|
+
+|**Sprint Goal & User Stories**||
+|Sprint 4 Goal|<p>Goal: Para este sprint, nuestro objetivo es completar la implementación tanto del backend como del frontend de la aplicación. Esto incluye cumplir con todos los requisitos especificados y asegurarnos de que cada funcionalidad se desarrolle de acuerdo con las historias de usuario definidas.|
+|Sprint 4 Velocity|43|
+|Sum of Story Points|43|
+
+#### 5.2.4.2. Sprint Backlog 4. 
+
+
+
+
+
+
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
