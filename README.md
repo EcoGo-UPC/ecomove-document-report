@@ -1909,16 +1909,31 @@ A continuacion se muestra la planeación para nuestro cuarto sprint
 |Prepared By|Angello Sosa Colca|
 |Attendees (to planning meeting)|Ames Oviedo, Mariano José/ Morales Montalvo, Omar Andrew/ Lecca Choccare, Christopher Bryan/ Sosa Colca, Angello Rodolfo/ Tongo Alejandro, Milagros Salet|
 |Sprint 4 Review Summary|En resumen, en el sprint 4, se logró implementar de forma completa el backend y realizar las pruebas respectivas utilizando Swagger. Además se llegó a cumplir con todas las tasks para el entregable.|
-
 |Sprint 4 Retrospective Summary|Logramos cumplir con todo el sprint 4 de manera satisfactoria. No obstante, notamos como punto de mejora realizar la documentación del código.|
-
 |**Sprint Goal & User Stories**||
 |Sprint 4 Goal|<p>Goal: Para este sprint, nuestro objetivo es completar la implementación tanto del backend como del frontend de la aplicación. Esto incluye cumplir con todos los requisitos especificados y asegurarnos de que cada funcionalidad se desarrolle de acuerdo con las historias de usuario definidas.|
 |Sprint 4 Velocity|43|
 |Sum of Story Points|43|
 
 #### 5.2.4.2. Sprint Backlog 4. 
+Se muestran las tareas que se tuvieron en cuenta para desarrollar en el presente sprint y se adjunta un link de trello con el tablero de las mismas.
 
+| Sprint # | Sprint 4 |           |           |           |           |           |           |
+| :-       | :-       | :-        | :-        | :-        | :-        | :-        | :-        |
+| User Story | Work-Item / Task |           |          |           |            |           |           |
+| Id       | Title    | Id        | Title     | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
+| US01     | Inicio de sesión | W22 | User Management Bounded Context | Implementar el inicio de sesión a través del API | 7 | Christopher Lecca | Done |
+| US05     | Reserva de transporte | W23 | Booking Reservation Bounded Context | Implementar la reserva de un vehículo a través del API | 7 | Mariano Ames | Done |
+| US29     | Historial de transacciones | W24 | Payment Bounded Context | Implementar la función que devuelva el historial de transacciones a través del API | 5 | Angello Sosa | Done |
+| US04     | Visualización de disponibilidad de los vehículos | W25 | Vehicle Management Bounded Context | Implementar que a través del API se muestre la disponibilidad | 6 | Omar Morales | Done |
+| US09     | Historial de reservas | W26 | Booking Reservation Bounded Context | Registrar cada reserva y mostrarla según el id el usuario | 7 | Mariano Ames | Done |
+| US17     | Soporte al cliente | W27 | Customer Support Bounded Context | Implementar la función de guardar los problemas reportados a través del API | 5 | Milagros Tongo | Done |
+| US24     | Integración con servicio de geolocalización | W28 | Vehicle Management Bounded Context | La API debe devolver las coordenadas del vehículo para que se dé el servicio de geolocalización | 6 | Christopher Lecca | Done |
+
+Enlace de trello: https://trello.com/invite/b/3cITzLzF/ATTI112a9e56db640d83ca472784c3301b0297796244/spritn-4-ecomove-backend
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
 
 
 
