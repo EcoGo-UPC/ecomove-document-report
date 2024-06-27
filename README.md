@@ -246,10 +246,42 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       Milagros Tongo: En comparación con entregas anteriores, logré comunicar de manera más efectiva conceptos técnicos complejos, utilizando ejemplos relevantes y analogías comprensibles para todos.
       </br>
       <br>
-      Mariano Ames: Desarrolle las diferentes vistas que se planearon en el anterior avance del proyecto. Para esto fue necesaria una comunidad clara con el equipo, lo que nos ayudo a mejorar la competencia de comunicación oral
+      Mariano Ames: Desarrolle las diferentes vistas que se planearon en el anterior avance del proyecto. Para esto fue necesaria una comunidad clara con el equipo, lo que nos ayudo a mejorar la competencia de comunicación oral.
+      </br>
+      <br>
+      Omar Morales: Llevé a cabo las tareas planificadas en el avance anterior del proyecto. Para lograrlo, fue esencial mantener una comunicación clara con el equipo, lo que nos permitió mejorar nuestras habilidades de comunicación oral.
+      </br>
+       <br>TB2:<br>
+      Christopher Lecca: Me esforcé por comunicar de manera clara y accesible los resultados del proyecto, adaptando mi lenguaje tanto para ingenieros como para directivos, asegurando que todos comprendieran el progreso y los logros.
+      </br>
+      <br>
+      Angello Sosa: En esta tercera entrega, organicé el proyecto y me aseguré de mejorar continuamente su estructura, apoyando activamente a mi equipo.
+      </br>
+      <br>
+      Milagros Tongo: En esta tercera entrega, presenté de manera objetiva las mejoras continuas del reporte, los avances en el frontend y el desarrollo del soporte al cliente utilizando la arquitectura de Domain-Driven Design (DDD). Adapté mi comunicación oral para audiencias de diversas especialidades y niveles jerárquicos, asegurando la comprensión y recepción positiva de mis presentaciones.
+      </br>
+      <br>
+      Mariano Ames: En esta tercera entrega, comuniqué eficazmente las necesidades del proyecto a mi equipo y me encargué de implementar puntos críticos para la aplicación, mejorando así mi capacidad de comunicación sobre el tema.
+      </br>
+      <br>
+      Omar Morales: Coordiné eficazmente con mi equipo para implementar los requisitos clave del proyecto en esta tercera entrega, asegurando una organización estructural sólida y facilitando una mejora continua en el proceso.
+      </br>
+      <br>TF:<br>
+      Christopher Lecca: En mi experiencia liderando reuniones de equipo, he aprendido a trabajar en colaboración con mis compañeros. Me entusiasmé al facilitar una sesión de brainstorming para la planificación del sprint backlog, animando a cada miembro del equipo a compartir sus ideas y perspectivas. Esta colaboración efectiva nos permitió estructurar de manera eficiente las tareas y definir claramente nuestros objetivos. Durante las reuniones, creé un ambiente acogedor donde todos se sintieron cómodos compartiendo opiniones y sugerencias, resultando en un plan de acción sólido y ampliamente aceptado.
+      </br>
+      <br>
+      Angello Sosa: En mi rol, participé activamente en la revisión de las metas del equipo y la planificación de tareas. Lideré discusiones donde todos los miembros pudieron expresar sus ideas y preocupaciones, permitiéndonos ajustar nuestras estrategias según las necesidades del proyecto. Durante la fase de mejora continua, facilité la colaboración entre los miembros del equipo, asegurando que cada uno contribuyera de manera significativa. Este enfoque de liderazgo compartido fortaleció nuestra cohesión como equipo y mejoró la calidad de nuestro trabajo.
+      </br>
+      <br>
+      Milagros Tongo: Mi prioridad fue promover un entorno inclusivo y colaborativo. Lideré la revisión y actualización del sprint backlog basándonos en las conclusiones obtenidas, asegurando que todas las voces fueran escuchadas y consideradas. Fomenté un ambiente donde cada miembro se sintió valorado y capaz de contribuir plenamente. Esta dinámica inclusiva no solo mejoró nuestras relaciones de trabajo, sino que también condujo a una planificación más efectiva y a soluciones innovadoras para los desafíos que enfrentamos.
+      </br>
+      <br>
+      Mariano Ames: Como parte integral del equipo, me encargué de coordinar la integración de las conclusiones del proyecto en nuestra documentación final. Un desafío clave fue asegurar la conexión fluida entre el front end y el backend, liderando la comunicación entre desarrolladores de ambas áreas. Organizé reuniones de seguimiento y abordé proactivamente cualquier problema, demostrando habilidades colaborativas y capacidad para liderar junto a mis colegas, aspectos fundamentales para cumplir con nuestros objetivos técnicos y de proyecto.
+      </br>
+      <br>
+      Omar Morales:En mi rol, me enfoqué en liderar la implementación efectiva de los requisitos clave del proyecto durante esta fase. Coordiné estrechamente con mi equipo para garantizar que todas las tareas se realizaran de manera eficiente y en línea con nuestros objetivos. Facilité reuniones estratégicas donde discutimos y ajustamos nuestros planes según las necesidades emergentes del proyecto. Mi capacidad para proporcionar liderazgo colaborativo fue fundamental para mantener la cohesión del equipo y asegurar el éxito en nuestras entregas.
       </td>
       </td>
-  <br>TB2:<br>
       Christopher Lecca: Durante el desarrollo del backend, me enfoqué en la implementación de la arquitectura DDD. Tomé la iniciativa en liderar la integración de los bounded context, asegurando que el equipo comprendiera y siguiera las mejores prácticas de diseño. Mi liderazgo técnico fue crucial para mantener la coherencia y calidad del código, y ayudé a resolver problemas complejos que surgieron durante el proceso.
       </br>
       <br>
@@ -262,8 +294,8 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       Mariano Ames: Durante el desarrollo del backend con enfoque en DDD, lideré varias reuniones de revisión donde discutimos el progreso y los desafíos técnicos. Mi papel fue crucial para mantener al equipo enfocado y motivado, asegurando que todos comprendieran sus responsabilidades y contribuyeran de manera efectiva al éxito del proyecto.
   <br>
    <br>
-      Omar Morales: Lideré la producción del video sobre el equipo, coordinando entrevistas y la presentación del trabajo colaborativo. Me aseguré de que el video reflejara no solo nuestras habilidades técnicas, sino también nuestro espíritu de equipo y la sinergia que logramos. Mi capacidad para gestionar el proyecto y motivar al equipo fue clave para el resultado final.
-  <br>
+      Omar Morales: Lideré la producción del video sobre el equipo, coordinando entrevistas y la presentación del trabajo colaborativo. Me aseguré de que el video reflejara no solo nuestras habilidades técnicas, sino también nuestro espíritu de equipo y la sinergia que logramos. Mi capacidad para gestionar el proyecto y motivar al equipo       fue clave para el resultado final.
+    <br>
       </td>
       </td>
       </td>
@@ -306,17 +338,36 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
    <br>
       Omar Morales: En la creación del video sobre el equipo, promoví un ambiente inclusivo y colaborativo. Establecí metas claras para la narrativa y la producción, y asigné tareas específicas a cada miembro del equipo, considerando sus habilidades individuales. Mi planificación y liderazgo permitieron que el video reflejara tanto nuestro trabajo técnico como la dinámica positiva del equipo, cumpliendo con todos nuestros objetivos.
   <br>
+     <br>TF:<br>
+       Christopher Lecca: Creé un entorno colaborativo e inclusivo al liderar reuniones de equipo, estableciendo metas claras para la planificación del sprint backlog y asegurando que cumpliéramos nuestros objetivos de manera efectiva.
+      </br>
+      <br>
+      Angello Sosa: Participé activamente en la revisión de metas del equipo, planifiqué tareas clave y aseguré que alcanzáramos nuestros objetivos mediante un liderazgo colaborativo que fomentó la participación de todos los miembros.
+      </br>
+      <br>
+      Milagros Tongo: Promoví un entorno inclusivo y colaborativo al liderar la revisión y actualización del sprint backlog, estableciendo metas ambiciosas y planificando tareas detalladas que nos ayudaron a alcanzar nuestros objetivos de manera efectiva.
+      </br>
+      <br>
+      Mariano Ames: Lideré la integración de conclusiones del proyecto, estableciendo metas claras para la conexión entre el front end y el backend. Planifiqué y coordiné tareas para asegurar que cumpliéramos con nuestros objetivos técnicos y de proyecto.
+  <br>
+   <br>
+      Omar Morales: Establecí un entorno colaborativo e inclusivo al liderar la implementación de requisitos clave del proyecto, estableciendo metas claras y planificando tareas estratégicas que nos permitieron cumplir con nuestros objetivos de manera eficiente.
+  <br>
       </td>
       </td>
       </td>
       <td> 
         TB1: La realización de un diseño en Figma fortalece la comunicación efectiva en el desarrollo de EcoMove al proporcionar una representación visual clara y tangible del producto. Figma facilita la colaboración en tiempo real entre equipos multidisciplinarios, permitiendo que nuestros stakeholders comprendan fácilmente la estructura y funcionalidades del proyecto. Esto promueve una comprensión compartida y una alineación de objetivos, mejorando así la eficacia de la comunicación en el proceso. <br>
-        TP1:El enfoque de EcoMove en el desarrollo frontend con Angular, Angular Material y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Angular y Angular Material, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica.<br>
-Además, la implementación de un API ficticio hasta que esté disponible el backend real muestra una visión proactiva hacia la comunicación transparente. A pesar de la falta de datos reales, este enfoque proporciona a los diferentes stakeholders una comprensión clara de cómo se integrarán y funcionarán los componentes del sistema final. Esto fomenta la participación y retroalimentación temprana, lo que a su vez mejora la comprensión mutua y la alineación de objetivos entre nuestro equipo de desarrollo.
+        TP1:El enfoque de EcoMove en el desarrollo frontend con Vue, PrimeVue y un API simulado demuestra un compromiso con la comunicación efectiva en el marco del proyecto de ingeniería. A través de la utilización de tecnologías bien establecidas como Vue y VuePrime, se facilita la presentación clara y coherente de ideas y resultados. Estas herramientas permiten una interfaz de usuario intuitiva y atractiva, lo que contribuye a una comunicación efectiva con diferentes audiencias, independientemente de su experiencia técnica.<br>
+Además, la implementación de un API ficticio hasta que esté disponible el backend real muestra una visión proactiva hacia la comunicación transparente. A pesar de la falta de datos reales, este enfoque proporciona a los diferentes stakeholders una comprensión clara de cómo se integrarán y funcionarán los componentes del sistema final. Esto fomenta la participación y retroalimentación temprana, lo que a su vez mejora la comprensión mutua y la alineación de objetivos entre nuestro equipo de desarrollo.  <br>
+        TB2: En esta fase, el inicio del desarrollo del backend en EcoMove marca un hito crucial para fortalecer mi entorno de trabajo colaborativo e inclusivo. La implementación del backend me permite integrar las funcionalidades frontend diseñadas previamente con un sistema robusto y funcional. Esto asegura que mis metas y objetivos se alineen efectivamente con las expectativas del proyecto, facilitando una planificación estratégica y una ejecución eficiente.<br>
+        TF: La finalización exitosa del desarrollo del backend en EcoMove y la implementación completa del sistema es crucial. Puesto que, este logro no solo confirma el cumplimiento de mis metas establecidas, sino que también subraya el compromiso continuo con la planificación meticulosa y la ejecución efectiva. Durante este proceso, se ha demostrado un enfoque riguroso hacia la comunicación transparente y la alineación efectiva de objetivos en todas las etapas del desarrollo. La integración completa y el despliegue exitoso del sistema consolidan la capacidad para trabajar colaborativamente y de manera inclusiva, reforzando nuestras habilidades para alcanzar los objetivos estratégicos del proyecto de manera efectiva y eficiente.
       </td>
     </tr>
   </tbody>
 </table>
+
+
 
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
@@ -1032,7 +1083,7 @@ En esta sección, se describirán los escenarios "To-Be" correspondientes a los 
 |---------------|------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------------|
 | US01          | Inicio de sesión                         | Como usuario quiero poder ingresar al sitio web con mi nombre de usuario y contraseña para visualizar la información con mi cuenta.                          | Dado que el usuario tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de iniciar sesión Y Ingrese su nombre de usuario y contraseña Entonces se mostrara al usuario su cuenta.          | Autenticación                   | 3            |
 | US02          | Registro de nuevo usuario                | Como usuario nuevo, quiero poder registrarme en la aplicación para acceder a ella.                                                                           | Dado que no tenga una cuenta registrada en la pagina web Cuando el usuario de click en la opción de registro Y Ingrese sus datos como nombre de usuario, contraseña, ciudad, etc Entonces se creara una cuenta para el usuario y se le dara acceso. | Autenticación                   | 5            |
-| US03          | Buscar Transporte Cercano                | Como usuario, quiero poder buscar vehiculos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento.                                       | Dado que se encuentre en la sección de busqueda de vehiculos Cuando el usuario de click en la opción de buscar vehiculos cercanos Y verifique su ubicación en el menú Entonces se mostrara en una lista al usuario los vehiculos cercanos. | Búsqueda y Reserva               | 8            |
+| US03          | Buscar Transporte Cercano                | Como usuario, quiero poder buscar vehiculos disponibles cerca de mi ubicación actual para facilitar mi desplazamiento.                                       | Dado que se encuentre en la sección de busqueda de vehiculos Cuando el usuario de click en la opción de buscar vehiculos cercanos Y verifique su ubicación en el menú Entonces se mostrara en una lista al usuario los vehiculos cercanos. | Búsqueda y Reserva               | 7            |
 | US04          | Visualización de Disponibilidad          | Como usuario, quiero ver en tiempo real la disponibilidad de vehiculos en mi área para planificar mi viaje de manera eficiente.                               | Dado que el usuario se encuentre en la sección de busqueda de vehiculos Y el usuario seleccione un vehiculo para verificar su disponibilidad Cuando el usuario de click en la opción de verificar disponibilidad Entonces se mostrara al usuario la disponibilidad del vehiculo solicitado. | Búsqueda y Reserva               | 5            |
 | US05          | Reservar Transporte                      | Como usuario, deseo poder reservar un scooter eléctrico o una bicicleta por adelantado para asegurar mi medio de transporte cuando lo necesite.              | Dado que el usuario haya seleccionado un vehiculo que se encuentre disponible Cuando el usuario de click en la opción de reservar el transporte Y elija un horario disponible para el vehiculo Entonces se hara una reserva del vehiculo para el usuario. | Búsqueda y Reserva               | 5            |
 | US06          | Notificaciones de Disponibilidad         | Como usuario, deseo recibir notificaciones en tiempo real cuando haya scooters eléctricos o bicicletas disponibles cerca de mi ubicación.                    | Dado que el usuario se encuentre en la sección de busqueda de vehiculos Cuando el usuario seleccione un vehiculo no disponible actualmente Entonces se le dara al usuario la posibilidad de seguir la disponibilidad del vehiculo en tiempo real. | Comunicaciones y Notificaciones  | 3            |
@@ -1539,8 +1590,8 @@ Del mismo modo, en lo que respecta al proceso de despliegue del Landing Page, se
 | **Sprint 1 Review**            | **Equipo de desarrollo:** El equipo realizó las tareas asignadas exitosamente para la realización de una buena captura de los requisitos del producto software y su diseño e implementación.<br>**Landing Page:** Se realizaron los diseños wireframe, mockup y prototype para posterior a ello, establecer el código de la página web estática en HTML, CSS y JavaScript. |
 | **Sprint 1 Retrospective**     | **Oportunidades de mejora:** Se vio que hay que mejorar un poco en la organización del equipo en cuanto a completar las tareas asignadas e ir midiendo avances.                                                                                              |
 | **Sprint Goal & User Stories** | **Sprint 1 Goal**<br>**Objetivos:**<br>Investigación: Realizar el UX Research<br>**Métrica:** Realización y demostración de los hallazgos.<br><br>Diseño: Realizar diseños wireframe, mockup y prototype de la Landing Page.<br>**Métrica:** Creación exitosa de mockups interactivos para al menos el 80%.<br><br>Programación: Codificar Landing Page en los lenguajes de HTML, CSS y JavaScript.<br>**Métrica:** Corrección exitosa del 100% del código a nivel de legibilidad.<br><br>Despliegue: Desplegar la solución estática<br>**Métrica:** Verificación de que la Landing Page se ha desplegado correctamente en el entorno de producción. |
-| **Sprint 1 Velocity**          | **16**                                                                                                                                                                                                                                                      |
-| **Sum of Story Points**        | **16**                                                                                                                                                                                                                                                      |
+| **Sprint 1 Velocity**          | **15**                                                                                                                                                                                                                                                      |
+| **Sum of Story Points**        | **15**                                                                                                                                                                                                                                                      |
 
 
 
@@ -1623,8 +1674,8 @@ Enlace del despligue: https://ecogo-upc.github.io/ecomove-landing-page/
 |Sprint 2 Retrospective Summary|En resumen, del sprint anterior se vieron puntos de mejora en el equipo, como aumentar la comunicación y la organización para poder completar las tareas designadas.|
 |**Sprint Goal & User Stories**||
 |Sprint 2 Goal|<p>Goal: Terminar el desarrollo del Front-End y desplegarlo.</p><p>Métrica de cumplimiento: Poder visualizar el Front-End desplegado.</p>|
-|Sprint 2 Velocity|49|
-|Sum of Story Points|49|  
+|Sprint 2 Velocity|48|
+|Sum of Story Points|48|  
 
 #### 5.2.2.2. Sprint Backlog 2
 
@@ -1737,8 +1788,8 @@ A continuacion se muestra la planeación para nuestro tercer sprint
 |Sprint 2 Retrospective Summary|En resumen, del sprint anterior se vieron puntos de mejora en el equipo, como aumentar la comunicación y la organización para poder completar las tareas designadas.|
 |**Sprint Goal & User Stories**||
 |Sprint 3 Goal|<p>Goal: Para este sprint tenemos como objetivo implementar parcialmente del backend, así como realizar las entrevistas de validación con la finalidad de validar nuestra propuesta de Web App y Landing Page.|
-|Sprint 3 Velocity|49|
-|Sum of Story Points|49|
+|Sprint 3 Velocity|48|
+|Sum of Story Points|48|
 
 #### 5.2.3.2. Sprint Backlog 3. 
 
@@ -1924,11 +1975,9 @@ Se muestran las tareas que se tuvieron en cuenta para desarrollar en el presente
 | Id       | Title    | Id        | Title     | Description | Estimation (Hours) | Assigned To | Status (To-Do / In-Process/ To- Review/ Done) |
 | US01     | Inicio de sesión | W22 | User Management Bounded Context | Implementar el inicio de sesión a través del API | 7 | Christopher Lecca | Done |
 | US05     | Reserva de transporte | W23 | Booking Reservation Bounded Context | Implementar la reserva de un vehículo a través del API | 7 | Mariano Ames | Done |
-| US29     | Historial de transacciones | W24 | Payment Bounded Context | Implementar la función que devuelva el historial de transacciones a través del API | 5 | Angello Sosa | Done |
 | US04     | Visualización de disponibilidad de los vehículos | W25 | Vehicle Management Bounded Context | Implementar que a través del API se muestre la disponibilidad | 6 | Omar Morales | Done |
 | US09     | Historial de reservas | W26 | Booking Reservation Bounded Context | Registrar cada reserva y mostrarla según el id el usuario | 7 | Mariano Ames | Done |
-| US17     | Soporte al cliente | W27 | Customer Support Bounded Context | Implementar la función de guardar los problemas reportados a través del API | 5 | Milagros Tongo | Done |
-| US24     | Integración con servicio de geolocalización | W28 | Vehicle Management Bounded Context | La API debe devolver las coordenadas del vehículo para que se dé el servicio de geolocalización | 6 | Christopher Lecca | Done |
+| US11     | Soporte al cliente | W27 | Customer Support Bounded Context | Implementar la función de guardar los problemas reportados a través del API | 5 | Milagros Tongo | Done |
 
 Enlace de trello: https://trello.com/invite/b/3cITzLzF/ATTI112a9e56db640d83ca472784c3301b0297796244/spritn-4-ecomove-backend
 
