@@ -1950,7 +1950,43 @@ Enlace de trello: https://trello.com/invite/b/3cITzLzF/ATTI112a9e56db640d83ca472
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 Para este sprint validamos que las peticiones del frontend concuerden con las del backend, se puede acceder desde el sigueinte enlace:
-https://ecomove-web.netlify.app/inicio
+https://ecomove-web.netlify.app
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+En el presente sprint se logro completar los endpoints de manera exitosa y desplegamos el servdor documentado, se puede encontrar en el siguiente enlace: 
+https://ecomove-web-api.azurewebsites.net/swagger/index.html
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/1.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/2.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/3.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/4.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/5.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/6.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/7.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/8.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/9.png?raw=true)
+
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/10.png?raw=true)
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+Para el sprint actual, se ha desarrollado el API de la aplicación web utilizando diversas herramientas. No obstante, el despliegue del API no está incluido en el alcance de este sprint.
+
+Se emplearon las siguientes herramientas:
+
+- Git: Utilizamos este sistema de control de versiones para trabajar de manera colaborativa y llevar un seguimiento de las diferentes versiones de la aplicación web en un repositorio remoto.
+- Gitflow: Implementamos este flujo de trabajo colaborativo para dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilitó la colaboración en el desarrollo.
+- GitHub: Utilizamos esta plataforma para crear nuestro repositorio, permitiéndonos almacenar y gestionar las distintas versiones de nuestro proyecto.
+- Swagger UI: Esta herramienta nos sirvió para probar y documentar nuestra API de manera efectiva.
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 ## 5.3. Validation Interviews
 
