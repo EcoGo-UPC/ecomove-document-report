@@ -353,7 +353,13 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       </td>
       </td>
       <td>
-      Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente
+      TB1:A lo largo del desarrollo del proyecto, cada miembro del equipo ha demostrado habilidades clave en liderazgo, comunicación y colaboración. En TB1, se destacó la importancia de los diagramas arquitectónicos, el proceso de Lean UX, el análisis exhaustivo de usuarios y la creación de prototipos para establecer una base sólida en el proyecto. La experiencia de trabajar en equipo permitió proporcionar liderazgo conjunto, asegurando que todos los miembros contribuyeran al diseño y desarrollo del sistema.<br>
+
+TP1: el énfasis estuvo en la comunicación clara y efectiva. Los miembros del equipo mejoraron su capacidad para transmitir ideas y resultados, adaptándose a diversas audiencias y contextos. Esta habilidad fue esencial para mantener una coordinación efectiva y asegurar que todos los aspectos técnicos y estratégicos del proyecto fueran comprendidos por todos.<br>
+
+TB2: se resaltó la mejora continua y la organización estructural del proyecto. Los avances en la estructura del proyecto y la presentación objetiva de los progresos demostraron un compromiso con la calidad y la eficiencia. La comunicación adaptada a diversas audiencias aseguró que el progreso y los logros fueran entendidos y apreciados por todos los involucrados.<br>
+
+TF:Finalmente, en TF, se evidenció un liderazgo colaborativo y efectivo durante las reuniones de equipo y la planificación de tareas. La promoción de un entorno inclusivo y la coordinación estrecha entre los miembros fueron claves para la implementación exitosa de los requisitos del proyecto. La habilidad para facilitar la colaboración y ajustar estrategias según las necesidades del proyecto fortaleció la cohesión del equipo y mejoró la calidad del trabajo final.<br>
       </td>
     </tr>
     <tr>
