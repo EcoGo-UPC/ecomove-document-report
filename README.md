@@ -352,23 +352,6 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
       Omar Morales:En mi rol, me enfoqué en liderar la implementación efectiva de los requisitos clave del proyecto durante esta fase. Coordiné estrechamente con mi equipo para garantizar que todas las tareas se realizaran de manera eficiente y en línea con nuestros objetivos. Facilité reuniones estratégicas donde discutimos y ajustamos nuestros planes según las necesidades emergentes del proyecto. Mi capacidad para proporcionar liderazgo colaborativo fue fundamental para mantener la cohesión del equipo y asegurar el éxito en nuestras entregas.
       </td>
       </td>
-      Christopher Lecca: Durante el desarrollo del backend, me enfoqué en la implementación de la arquitectura DDD. Tomé la iniciativa en liderar la integración de los bounded context, asegurando que el equipo comprendiera y siguiera las mejores prácticas de diseño. Mi liderazgo técnico fue crucial para mantener la coherencia y calidad del código, y ayudé a resolver problemas complejos que surgieron durante el proceso.
-      </br>
-      <br>
-      Angello Sosa:Asumí un rol de liderazgo en la creación del video sobre el producto. Coordinar el equipo y planificar el contenido visual y explicativo fueron mis principales responsabilidades. Me aseguré de que cada miembro del equipo aportara sus ideas y habilidades, logrando un video que destacara las características y beneficios del producto de manera efectiva y atractiva.
-      </br>
-      <br>
-      Milagros Tongo: En la mejora del frontend, lideré el equipo en la implementación de nuevas funcionalidades y mejoras de diseño. Guié al equipo en la adopción de nuevas tecnologías y enfoques, asegurándome de que todos estuvieran alineados con los objetivos del proyecto. Mi liderazgo ayudó a mejorar significativamente la experiencia del usuario final.
-      </br>
-      <br>
-      Mariano Ames: Durante el desarrollo del backend con enfoque en DDD, lideré varias reuniones de revisión donde discutimos el progreso y los desafíos técnicos. Mi papel fue crucial para mantener al equipo enfocado y motivado, asegurando que todos comprendieran sus responsabilidades y contribuyeran de manera efectiva al éxito del proyecto.
-  <br>
-   <br>
-      Omar Morales: Lideré la producción del video sobre el equipo, coordinando entrevistas y la presentación del trabajo colaborativo. Me aseguré de que el video reflejara no solo nuestras habilidades técnicas, sino también nuestro espíritu de equipo y la sinergia que logramos. Mi capacidad para gestionar el proyecto y motivar al equipo       fue clave para el resultado final.
-    <br>
-      </td>
-      </td>
-      </td>
       <td>
       Tras un exhaustivo análisis de las necesidades de movilidad urbana, EcoMove se erige como una solución innovadora y oportuna para abordar los desafíos ambientales y de tráfico en entornos urbanos. Al ofrecer una plataforma integral que promueve el uso compartido de vehículos eléctricos, EcoMove no solo ofrece una alternativa sostenible al transporte convencional, sino que también fomenta un estilo de vida urbano más eficiente y respetuoso con el medio ambiente
       </td>
