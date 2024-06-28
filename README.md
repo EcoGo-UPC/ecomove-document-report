@@ -2126,7 +2126,7 @@ Enlace de trello: https://trello.com/invite/b/3cITzLzF/ATTI112a9e56db640d83ca472
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 Para este sprint validamos que las peticiones del frontend concuerden con las del backend, se puede acceder desde el sigueinte enlace:
-https://ecomove-web.netlify.app
+https://ecomove-web-application.netlify.app/
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 En el presente sprint se logro completar los endpoints de manera exitosa y desplegamos el servdor documentado, se puede encontrar en el siguiente enlace: 
