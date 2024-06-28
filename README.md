@@ -2399,7 +2399,9 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212077_upc_edu_pe/EegZ9IVU
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212383_upc_edu_pe/EWmH2y2FfTpBlItzLEp04XkBJ4QmLQHZukjzmgjZuk7Kng?e=KW1yUa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ## Anexo C: Video de exposición del TB2
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/EW-tjL2oOppJkGew2U0A7O4BuiKFc1wpk-WLNIyQVoeUFA?e=NdcXqS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-## Anexo D: Video About the team
+## Anexo D: Video de exposición del TF1
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116078_upc_edu_pe/Eeamhj9Li8dPoS1IvMibQ4QBEXkeNLWtT8Ufma0k42W5bw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=tiCtrj
+## Anexo F: Video About the team
 https://www.youtube.com/watch?v=syf_qXT5OyM&t=1s&ab_channel=MilyTongo
 
 # Bibliografía
