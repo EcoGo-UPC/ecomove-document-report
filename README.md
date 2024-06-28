@@ -1431,95 +1431,149 @@ El diagrama de componentes del sistema presenta los diferentes contextos, como e
 
 En el contexto de la gestión de usuarios, se implementan una serie de clases y interfaces diseñadas para manejar de manera eficiente la interacción entre los usuarios y el sistema. Desde la creación y gestión de perfiles de usuario hasta la administración de membresías y sesiones activas, estas clases trabajan en conjunto para garantizar una experiencia fluida y segura para los usuarios. Con clases como User, UserSession y Membership, junto con sus respectivas fábricas, se establece una base sólida para el manejo integral de los usuarios en el sistema. Además, la implementación de observadores como StatusObserver permite monitorear y responder dinámicamente a cambios en el estado de los usuarios, asegurando un entorno confiable y receptivo para todas las operaciones de gestión de usuarios.
 
-![](https://github.com//EcoGo-UPC//ecomove-document-report/blob/main/images/artifacts/user-management-context.PNG?raw=true)
+![](https://github.com//EcoGo-UPC//ecomove-document-report/blob/main/images/artifacts/user-management-context-2.PNG?raw=true)
 
 **Context: Vehicle Management:**
 
 En el ámbito de la gestión de vehículos, se establece un conjunto de clases y estructuras destinadas a facilitar la administración eficiente de los recursos relacionados con vehículos en un sistema. Desde la representación de diferentes tipos de vehículos hasta la gestión de reservas y mantenimiento, estas clases colaboran para ofrecer un entorno organizado y funcional para la administración de flotas de vehículos.
 
-![](https://github.com//EcoGo-UPC//ecomove-document-report/blob/main/images/artifacts/vehicle-management-context.PNG?raw=true)
+![](https://github.com//EcoGo-UPC//ecomove-document-report/blob/main/images/artifacts/vehicle-management-context-2.png?raw=true)
 
 **Context: Booking and Reservation:**
 
 En el ámbito de la gestión de reservas y reservación, se establece un conjunto de clases y estructuras destinadas a facilitar la administración eficiente de reservas de servicios o recursos dentro de un sistema. Desde la creación y modificación de reservas hasta la notificación y cancelación de las mismas, estas clases colaboran para ofrecer una experiencia fluida y organizada para los usuarios que utilizan el sistema de reservas.
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/booking-context.PNG?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/booking-context-2.png?raw=true)
 
 **Context: Payment:**
 
 El contexto de pago abarca todas las funcionalidades y procesos relacionados con la gestión de transacciones financieras dentro de un sistema. Desde la verificación de métodos de pago hasta la realización de transacciones y el registro de las mismas, este contexto se centra en garantizar la seguridad, eficiencia y confiabilidad en las operaciones financieras realizadas en la plataforma.
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/payment-context.PNG?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/payment-context-2.png?raw=true)
 
 **Context: Customer Support:**
 
 El contexto de Customer Support (soporte al cliente) se enfoca en proporcionar asistencia y resolver problemas para los usuarios de un producto o servicio. Las clases dentro de este contexto facilitan la gestión eficiente de las solicitudes de soporte, la asignación de tareas a agentes de servicio al cliente y el seguimiento del progreso de la resolución de problemas.
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/customer-support-context.PNG?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/customer-support-context-2.png.PNG?raw=true)
 
 ### 4.7.2. Class Dictionary
 
 **Context: User Management:**
 
-- User: Representa un usuario en el sistema. Contiene información básica del usuario como nombre de usuario, correo electrónico y contraseña.
-- UserSession: Representa una sesión de usuario activa en el sistema. Guarda la información sobre el usuario que ha iniciado sesión, su ID de sesión y el momento en que inició sesión.
-- Membership (Membresía): Una interfaz que define las características y beneficios de la membresía de un usuario.
-- BasicMembership (Membresía Básica): Implementa la interfaz de membresía y define los beneficios asociados con la membresía básica de un usuario.
-- PremiumMembership (Membresía Premium): Implementa la interfaz de membresía y define los beneficios asociados con la membresía premium de un usuario.
-- EliteMembership (Membresía Elite): Implementa la interfaz de membresía y define los beneficios asociados con la membresía elite de un usuario.
-- MembershipFactory (Fábrica de Membresías): Una fábrica abstracta que define un método para crear objetos de membresía.
-- BasicMembershipFactory (Fábrica de Membresías Básicas): Una fábrica concreta que implementa la creación de membresías básicas.
-- PremiumMembershipFactory (Fábrica de Membresías Premium): Una fábrica concreta que implementa la creación de membresías premium.
-- EliteMembershipFactory (Fábrica de Membresías Elite): Una fábrica concreta que implementa la creación de membresías elite.
+- User: Representa a un usuario con atributos como identificador de usuario, nombre, nombre de usuario, contraseña, correo electrónico, reservas y membresías.
+
+- Membership: Representa una membresía de usuario, con atributos como identificador de membresía, usuario, categoría de membresía, fecha de inicio y fecha de fin.
+
+- MembershipCategory: Define una categoría de membresía (por ejemplo, estándar, premium), con un identificador único y un nombre.
+
+- IBaseRepository<TEntity>: Interfaz genérica para operaciones básicas de repositorio como agregar, encontrar por ID, actualizar, eliminar y listar entidades.
+
+- IUserRepository: Interfaz para operaciones específicas de repositorio relacionadas con usuarios, como encontrar por nombre de usuario y verificar la existencia de un nombre de usuario.
+
+- IMembershipRepository: Interfaz para operaciones específicas de repositorio relacionadas con membresías, como encontrar membresías por nombre de usuario.
+
+- IMembershipCategoryRepository: Interfaz para operaciones relacionadas con categorías de membresías.
+
+- IMembershipCategoryCommandService: Interfaz para manejar comandos relacionados con las categorías de membresías.
+
+- AuthenticationController: Controlador para manejar las solicitudes de autenticación de usuarios, como el inicio de sesión y registro.
+
+- MembershipCategoriesController: Controlador para manejar las solicitudes relacionadas con las categorías de membresías, como crear una nueva categoría y obtener todas las categorías.
+
+- MembershipsController: Controlador para manejar las solicitudes relacionadas con las membresías, como crear una nueva membresía y obtener membresías por ID de usuario o categoría de membresía.
+
+- UsersController: Controlador para manejar las solicitudes relacionadas con los usuarios, -como obtener un usuario por nombre de usuario.
+
+- PersonalName: Representa el nombre personal del usuario, con atributos como nombre y apellido.
+
+- EmailAddress: Representa la dirección de correo electrónico del usuario, con un atributo de dirección.
 
 **Context: Vehicle Management:**
 
-- EcoVehicle: Interfaz que define un vehículo ecológico.
-- ElectricBicycle: Implementa la interfaz EcoVehicle. Representa una bicicleta eléctrica.
-- ElectricScooter: Implementa la interfaz EcoVehicle. Representa un patinete eléctrico.
-- EcoVehicleFactory: Interfaz para la creación de objetos EcoVehicle.
-- ElectricBicycleFactory: Implementa la interfaz EcoVehicleFactory. Se encarga de crear bicicletas eléctricas.
-- ElectricScooterFactory: Implementa la interfaz EcoVehicleFactory. Se encarga de crear patinetes eléctricos.
-- EcoVehicleRepository: Interfaz para el almacenamiento y recuperación de información sobre vehículos ecológicos.
-- MaintenanceRecordList: Lista de registros de mantenimiento para un vehículo.
-- MaintenanceRecord: Registro de mantenimiento para un vehículo.
-- Subject: Interfaz para un objeto que es el sujeto de observación.
-- Observer: Interfaz para un objeto que observa y recibe notificaciones sobre cambios en un sujeto.
--StatusObserver: Implementa la interfaz Observer. Observa y recibe notificaciones sobre cambios de estado en un vehículo.
+- EcoVehicle: Representa un vehículo ecológico, con atributos como el modelo, tipo de vehículo, nivel de batería, ubicación, estado e imagen.
+
+- EcoVehicleType: Define el tipo de vehículo ecológico (por ejemplo, bicicleta, scooter), con un identificador único y un nombre.
+
+- Location: Representa la ubicación de un vehículo, con atributos de latitud y longitud.
+
+- IBaseRepository<TEntity>: Interfaz genérica para operaciones básicas de repositorio como agregar, encontrar por ID, actualizar, eliminar y listar entidades.
+
+- IEcoVehicleRepository: Interfaz específica para operaciones de repositorio relacionadas con vehículos ecológicos, como encontrar vehículos por tipo, modelo, nivel de batería, etc.
+
+- IEcoVehicleTypeRepository: Interfaz para operaciones relacionadas con los tipos de vehículos ecológicos.
+
+- EcoVehiclesController: Controlador para manejar las solicitudes relacionadas con los vehículos ecológicos, como crear, obtener por ID, obtener por tipo, obtener por nivel de batería, etc.
+
+- EcoVehicleTypesController: Controlador para manejar las solicitudes relacionadas con los tipos de vehículos ecológicos, como crear, obtener todos los tipos, obtener tipo por ID, etc.
 
 **Context: Booking and Reservation:**
 
-- Booking: Representa una reserva en el sistema.
-- Command (Comando): Interfaz que define las operaciones de comandos.
-- MakeReservationCommand (Comando de Hacer Reserva): Implementa la interfaz Command. Representa un comando para hacer una reserva.
-- ModifyReservationCommand (Comando de Modificar Reserva): Implementa la interfaz Command. Representa un comando para modificar - una reserva.
-- CancelReservationCommand (Comando de Cancelar Reserva): Implementa la interfaz Command. Representa un comando para cancelar una reserva.
-- Reservation (Reservación): Representa una reserva en el sistema.
-- ReservationRepository (Repositorio de Reservas): Interfaz para el almacenamiento y recuperación de información sobre reservas.
-- Strategy (Estrategia): Interfaz que define un algoritmo o familia de algoritmos.
-- EmailSender (Enviador de Correo Electrónico): Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones por correo electrónico.
-- SmsSender (Enviador de Mensajes de Texto): Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones por mensaje de texto.
-- PopupSender (Enviador de Ventanas Emergentes): Implementa la interfaz Strategy. Representa una estrategia para enviar notificaciones a través de ventanas emergentes.
+- IBaseRepository<TEntity>: Interfaz genérica para operaciones básicas de repositorio.
+  
+- IBookingRepository: Interfaz específica para operaciones relacionadas con reservas.
+
+- IBookingCommandService: Interfaz para manejar comandos relacionados con reservas.
+
+- IBookingQueryService: Interfaz para manejar consultas relacionadas con reservas.
+
+- Booking: Clase que representa una reserva, incluyendo detalles del usuario, vehículo y tiempos de inicio y fin.
+
+- BookingController: Controlador que maneja las solicitudes HTTP relacionadas con las reservas.
 
 **Context: Payment:**
 
-- PaymentProcessor: Interfaz para el procesamiento de pagos.
-- CreditCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de crédito.
-- DebitCardProcessor: Implementa PaymentProcessor. Procesa pagos realizados con tarjetas de débito.
-- PaymentProcessorFactory: Interfaz para la creación de objetos PaymentProcessor.
-- CreditCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de CreditCardProcessor.
-- DebitCardProcessorFactory: Implementa PaymentProcessorFactory. Se encarga de crear instancias de DebitCardProcessor.
-- TransactionEmitter: Emite transacciones financieras.
-- Transaction: Representa una transacción financiera.
-- TransactionRepository: Interfaz para el almacenamiento y recuperación de transacciones financieras.
+- Transaction: Representa una transacción financiera con atributos como el identificador de usuario, monto y fecha.
+
+- ITransactionRepository: Interfaz para operaciones específicas de repositorio relacionadas con transacciones, como encontrar todas las transacciones por identificador de usuario.
+
+- IBaseRepository<TEntity>: Interfaz genérica para operaciones básicas de repositorio como agregar, encontrar por ID, actualizar, eliminar y listar entidades.
+
+- ITransactionCommandService: Interfaz para manejar comandos relacionados con transacciones.
+
+- ITransactionQueryService: Interfaz para manejar consultas relacionadas con transacciones.
+
+- TransactionsController: Controlador para manejar las solicitudes relacionadas con transacciones, como crear una transacción y obtener todas las transacciones por identificador de usuario.
 
 
 **Context: Customer Support:**
 
-- TicketManager: Gestiona los tickets de soporte creados por los usuarios.
-- Ticket: Representa un ticket de soporte creado por un usuario.
-- TicketCategory: Define las categorías o tipos de tickets de soporte.
-- CustomerServiceAgent: Representa a un agente de servicio al cliente encargado de gestionar y responder a los tickets de soporte.
+- IBaseRepository<TEntity>: Interfaz genérica para operaciones básicas de repositorio.
+  
+- ICustomerSupportAgentRepository: Interfaz específica para operaciones relacionadas con agentes de soporte al cliente.
+
+- ITicketRepository: Interfaz específica para operaciones relacionadas con tickets.
+  
+- ITicketCategoryRepository: Interfaz específica para operaciones relacionadas con categorías de tickets.
+  
+- CustomerSupportAgent: Clase que representa un agente de soporte al cliente.
+  
+- Ticket: Clase que representa un ticket, incluyendo detalles del título, descripción, categoría y agente de soporte.
+  
+- TicketCategory: Clase que representa una categoría de ticket.
+  
+- ICustomerSupportAgentCommandService: Interfaz para manejar comandos relacionados con agentes de soporte al cliente.
+  
+- ICustomerSupportAgentQueryService: Interfaz para manejar consultas relacionadas con agentes de soporte al cliente.
+  
+- ITicketCategoryCommandService: Interfaz para manejar comandos relacionados con categorías de tickets.
+  
+- ITicketCategoryQueryService: Interfaz para manejar consultas relacionadas con categorías de tickets.
+  
+- ITicketCommandService: Interfaz para manejar comandos relacionados con tickets.
+  
+- ITicketQueryService: Interfaz para manejar consultas relacionadas con tickets.
+  
+- CustomerSupportAgentsController: Controlador que maneja las solicitudes HTTP relacionadas con agentes de soporte al cliente.
+  
+- TicketCategoriesController: Controlador que maneja las solicitudes HTTP relacionadas con categorías de tickets.
+  
+- TicketsController: Controlador que maneja las solicitudes HTTP relacionadas con tickets.
+  
+- PersonName: Clase que representa el nombre de una persona.
+  
+- EmailAddress: Clase que representa una dirección de correo electrónico.
+
 
 ## 4.8. Database Design
 
