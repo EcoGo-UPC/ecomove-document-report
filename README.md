@@ -1431,7 +1431,7 @@ El diagrama de componentes del sistema presenta los diferentes contextos, como e
 
 En el contexto de la gestión de usuarios, se implementan una serie de clases y interfaces diseñadas para manejar de manera eficiente la interacción entre los usuarios y el sistema. Desde la creación y gestión de perfiles de usuario hasta la administración de membresías y sesiones activas, estas clases trabajan en conjunto para garantizar una experiencia fluida y segura para los usuarios. Con clases como User, UserSession y Membership, junto con sus respectivas fábricas, se establece una base sólida para el manejo integral de los usuarios en el sistema. Además, la implementación de observadores como StatusObserver permite monitorear y responder dinámicamente a cambios en el estado de los usuarios, asegurando un entorno confiable y receptivo para todas las operaciones de gestión de usuarios.
 
-![](https://github.com//EcoGo-UPC//ecomove-document-report/blob/main/images/artifacts/user-management-context-2.PNG?raw=true)
+![](https://github.com//EcoGo-UPC//ecomove-document-report/blob/main/images/artifacts/user-management-context-2.png?raw=true)
 
 **Context: Vehicle Management:**
 
@@ -1455,7 +1455,7 @@ El contexto de pago abarca todas las funcionalidades y procesos relacionados con
 
 El contexto de Customer Support (soporte al cliente) se enfoca en proporcionar asistencia y resolver problemas para los usuarios de un producto o servicio. Las clases dentro de este contexto facilitan la gestión eficiente de las solicitudes de soporte, la asignación de tareas a agentes de servicio al cliente y el seguimiento del progreso de la resolución de problemas.
 
-![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/customer-support-context-2.png.PNG?raw=true)
+![](https://github.com/EcoGo-UPC/ecomove-document-report/blob/main/images/artifacts/customer-support-context-2.png?raw=true)
 
 ### 4.7.2. Class Dictionary
 
